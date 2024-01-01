@@ -1,0 +1,81 @@
+
+  new_test  2023-12-28 21:21:14
+model loaded from ./output/model_gpt_full.ckpt
+  new_test  2023-12-28 21:21:43
+model loaded from ./output/model_gpt_full.ckpt
+model_structures:GPT2_model(
+  (gpt): GPT2LMHeadModel(
+    (transformer): GPT2Model(
+      (wte): Embedding(50257, 768)
+      (wpe): Embedding(1024, 768)
+      (drop): Dropout(p=0.1, inplace=False)
+      (h): ModuleList(
+        (0-11): 12 x GPT2Block(
+          (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (attn): GPT2Attention(
+            (c_attn): Conv1D()
+            (c_proj): Conv1D()
+            (attn_dropout): Dropout(p=0.1, inplace=False)
+            (resid_dropout): Dropout(p=0.1, inplace=False)
+          )
+          (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (mlp): GPT2MLP(
+            (c_fc): Conv1D()
+            (c_proj): Conv1D()
+            (act): NewGELUActivation()
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+      (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+    )
+    (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+  )
+)
+Total Parameters: 124439808
+Trainable Parameters: 124439808
+-----------------------------------------------------
+  new_test  2023-12-30 21:53:30
+model loaded from ./output/model5.ckpt
+  new_test  2023-12-30 21:55:13
+model loaded from ./output/model6.ckpt
+method:topp
+bleu_score:0.05882245826128822
+rouge_score:0.357156426552505
+-----------------------------------------------------
+method:topk
+bleu_score:0.05264885541412152
+rouge_score:0.3795243235020006
+-----------------------------------------------------
+  new_test  2023-12-30 21:56:37
+model loaded from ./output/model6.ckpt
+method:topp
+bleu_score:0.06777623882784856
+rouge_score:0.35870441350594806
+-----------------------------------------------------
+method:topk
+bleu_score:0.06596051245284
+rouge_score:0.41218131214954035
+-----------------------------------------------------
+method:beam
+bleu_score:0.06937907185471241
+rouge_score:0.4301753256134175
+-----------------------------------------------------
+method:greedy
+bleu_score:0.07558744901595868
+rouge_score:0.41781968578480616
+-----------------------------------------------------
+method:sample
+bleu_score:0.05720411185927345
+rouge_score:0.3284324574166374
+-----------------------------------------------------
+method:temp
+bleu_score:0.06778964970206475
+rouge_score:0.36093737526953495
+-----------------------------------------------------
+  new_test  2023-12-30 22:15:22
+model loaded from ./output/model6.ckpt
+  new_test  2023-12-30 22:15:57
+model loaded from ./output/model6.ckpt
+  new_test  2023-12-30 22:16:57
+model loaded from ./output/model6.ckpt

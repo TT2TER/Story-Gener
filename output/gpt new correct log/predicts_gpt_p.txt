@@ -1,0 +1,36 @@
+method:greedy
+Tommy was very close to his dad and loved him greatly. He was always looking for a new home. When he found one, he was so happy.
+Tim was dating a girl who was easily scared. He decided to go to the park. She was scared of him. Tim decided that he would go there alone.
+Samuel collected butterflies for his collection. He was excited to see them. Sam was very excited about the butterflies.
+She ran outside without her shoes. She ran into a neighbor's house. The neighbor was upset. He called 911.
+There once was a man named Larry Butterfrog. He was an avid golfer. Larry was always looking for a new hobby. His wife was very interested in him. She asked him to join her golf club.
+Warren got a C on his English test, missing a B by one question. Warren was confused. He asked Warren if he could take a test. The test was a little difficult.
+Every weekend the Jefferson's go to the park. They go there to see the kids play. The kids are all playing.
+Grayson begged to have his Xbox back. He was so excited. The Xbox was in his hands. Grayson was able to play it for a few minutes.
+Tom wanted to gain more muscle. He started to train. Tom was able to do it.
+Michelle got a cold soda out of the fridge and set it on the counter. She was surprised to find that it was cold. Michelle was so excited.
+Susan is from Germany. She is a student at the University of California, Berkeley. Susan is very happy. When she gets home, she is excited to see her friends.
+method:top_k_p
+Tommy was very close to his dad and loved him greatly. His dad decided to open his own bakery. Tommy's mom asked for his money back.
+Tim was dating a girl who was easily scared. Tim asked if she could be in his house. When she didn't get it, he took her to his car. She took the car to a bar and hung out for two hours.
+Samuel collected butterflies for his collection. He decided to sell them to the neighbors. Sam picked them up in the parking lot and drove them home.
+She ran outside without her shoes. She fell into a creek. A nearby creek was filled with dead snakes.
+There once was a man named Larry Butterfrog. He was an engineer. They had the perfect design for a building. The building was built by someone called Larry. Larry was able to build something beautiful and unique.
+Warren got a C on his English test, missing a B by one question. He was told his answers were correct. Warren took a second and a third on the test.
+Every weekend the Jefferson's go to the park. One night the kids play on a soccer field. Everyone's happy and everyone's playing well. They go home happy.
+Grayson begged to have his Xbox back. A friend bought a new one for him. The friend gave him $100. Grayson could not believe it. He went through the game and realized he needed to buy a different Xbox.
+Tom wanted to gain more muscle. When he started exercising, he felt the muscles were stronger. He tried to make up for that. In his training, his muscles had not gotten stronger any more.
+Michelle got a cold soda out of the fridge and set it on the counter. Michelle was already sweating so she turned to face her doctor. She thought it was cold and asked for a hot water. The nurse didn't seem to notice. It was one of those hot spots that usually made people feel bad.
+Susan is from Germany. She got a job at a local bar. When she finally gets home, she is very excited. Susan is able to enjoy her day.
+method:beam
+Tommy was very close to his dad and loved him greatly. He loved to play with his toys. When he was a kid, he would sit on his father's lap and watch him play. Tommy loved playing with toys too.
+Tim was dating a girl who was easily scared. He decided to go out with her. She was very shy and didn't know how to talk to him. Tim went out of his way to help her out.
+Samuel collected butterflies for his collection. He picked them up and put them in his bag. When he opened the bag, he found a bunch of butterflies.
+She ran outside without her shoes. She ran into a neighbor's house. The neighbor called the police. When they arrived, they found her naked.
+There once was a man named Larry Butterfrog. He lived in a small town in the middle of nowhere. When he got there, he found out that he had been kidnapped. Larry had no idea what he was doing, so he went to the police. The police found him and arrested him.
+Warren got a C on his English test, missing a B by one question. Warren asked the teacher if he could take the test again. The teacher said he couldn't, so Warren took the C.
+Every weekend the Jefferson's go to the park. When they arrive, they are greeted by a crowd of people. The park is filled with people who are excited to see them.
+Grayson begged to have his Xbox back. He didn't want to pay for it. Instead, he bought a new Xbox.
+Tom wanted to gain more muscle. He bought a new pair of shoes. When he got home, he found that he couldn't get his feet on the ground. So he went to the gym.
+Michelle got a cold soda out of the fridge and set it on the counter. When she got home, she noticed that the soda was cold. She took it out and put it back in the refrigerator.
+Susan is from Germany. She works as a waitress at a restaurant. When she arrives at the restaurant, she is greeted by a man. He asks her if she wants to come with him. Susan says yes.

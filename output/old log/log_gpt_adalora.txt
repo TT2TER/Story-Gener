@@ -1,0 +1,137 @@
+  --------------------new_train  2023-12-29 02:43:35
+2023-12-29 02:48:42
+Loss of the network on the test data: 1.4666393209457398
+Accuracy of the network on the test data: 52.50895238095238 %
+Epoch: 1, Learning Rate: 0.003
+method:greedy
+bleu_score:0.3209483218157094
+rouge_score:0.02693602648397557
+-----------------------------------------------------
+  --------------------new_test  2023-12-29 02:49:59
+model loaded from ./output/model_gpt_adalora.ckpt
+method:greedy
+bleu_score:0.3209483218157094
+rouge_score:0.02693602648397557
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.324442923793313
+rouge_score:0.02980625886101
+-----------------------------------------------------
+method:beam
+bleu_score:0.3375959015341562
+rouge_score:0.027548208918524088
+-----------------------------------------------------
+  --------------------new_train  2023-12-29 06:04:09------------------------------------------HOHOHO
+2023-12-29 06:10:13
+Loss of the network on the test data: 1.4685310804367064
+Accuracy of the network on the test data: 52.50933333333333 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-29 06:16:15
+Loss of the network on the test data: 1.436609081840515
+Accuracy of the network on the test data: 52.51047619047619 %
+Epoch: 2, Learning Rate: 0.0009
+2023-12-29 06:22:18
+Loss of the network on the test data: 1.432565856552124
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 3, Learning Rate: 0.0009
+2023-12-29 06:28:20
+Loss of the network on the test data: 1.4197121345520018
+Accuracy of the network on the test data: 52.51047619047619 %
+Epoch: 4, Learning Rate: 0.00027
+2023-12-29 06:34:23
+Loss of the network on the test data: 1.4185884038925172
+Accuracy of the network on the test data: 52.51095238095238 %
+Epoch: 5, Learning Rate: 0.00027
+2023-12-29 06:40:25
+Loss of the network on the test data: 1.4151738023757934
+Accuracy of the network on the test data: 52.509238095238096 %
+Epoch: 6, Learning Rate: 8.1e-05
+2023-12-29 06:46:28
+Loss of the network on the test data: 1.4142669370651244
+Accuracy of the network on the test data: 52.51047619047619 %
+Epoch: 7, Learning Rate: 8.1e-05
+2023-12-29 06:52:31
+Loss of the network on the test data: 1.4133688495635985
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 8, Learning Rate: 8.1e-05
+2023-12-29 06:58:34
+Loss of the network on the test data: 1.4129819366455079
+Accuracy of the network on the test data: 52.510380952380956 %
+Epoch: 9, Learning Rate: 2.43e-05
+2023-12-29 07:04:37
+Loss of the network on the test data: 1.4120651592254638
+Accuracy of the network on the test data: 52.511047619047616 %
+Epoch: 10, Learning Rate: 2.43e-05
+method:greedy
+bleu_score:0.3219844267682769
+rouge_score:0.02959830826884311
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.31933433319927573
+rouge_score:0.033057850791802325
+-----------------------------------------------------
+method:beam
+bleu_score:0.3192731076107029
+rouge_score:0.033898304630330896
+-----------------------------------------------------
+  --------------------new_test  2023-12-29 23:39:37
+model loaded from ./output/model_gpt_adalora.ckpt
+method:greedy
+bleu_score:0.3219844267682769
+rouge_score:0.02959830826884311
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.30763073301260646
+rouge_score:0.0268256329295644
+-----------------------------------------------------
+method:beam
+bleu_score:0.3192731076107029
+rouge_score:0.033898304630330896
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): AdaLoraModel(
+      (model): GPT2LMHeadModel(
+        (transformer): GPT2Model(
+          (wte): Embedding(50257, 768)
+          (wpe): Embedding(1024, 768)
+          (drop): Dropout(p=0.1, inplace=False)
+          (h): ModuleList(
+            (0-11): 12 x GPT2Block(
+              (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (attn): GPT2Attention(
+                (c_attn): adalora.SVDLinear(
+                  (base_layer): Conv1D()
+                  (lora_dropout): ModuleDict(
+                    (default): Dropout(p=0.1, inplace=False)
+                  )
+                  (lora_A): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 12x768 (cuda:0)])
+                  (lora_B): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 2304x12 (cuda:0)])
+                  (lora_embedding_A): ParameterDict()
+                  (lora_embedding_B): ParameterDict()
+                  (lora_E): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 12x1 (cuda:0)])
+                  (ranknum): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 1 (cuda:0)])
+                )
+                (c_proj): Conv1D()
+                (attn_dropout): Dropout(p=0.1, inplace=False)
+                (resid_dropout): Dropout(p=0.1, inplace=False)
+              )
+              (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (mlp): GPT2MLP(
+                (c_fc): Conv1D()
+                (c_proj): Conv1D()
+                (act): NewGELUActivation()
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+          )
+          (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        )
+        (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+      )
+    )
+  )
+)
+Total Parameters: 124882332
+Trainable Parameters: 442512
+-----------------------------------------------------

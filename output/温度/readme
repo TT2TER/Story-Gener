@@ -1,0 +1,29 @@
+embedding dim 300
+model1是hidden 512 # vocab_size=28611
+model2 是128
+layer1
+            model3
+            nn.ReLU(inplace=True),
+            layer4
+
+            backup.pkl是12、27、22.22,没用了
+
+vocab_size改了
+用新的数据集重新训练吧
+先测试下自己的想法
+取10以后的算损失,模拟真实decoder的场景（有前世记忆
+model4
+
+再按照昨天的方法训一下
+model1的参数不变
+model5
+
+model6是model5的200epoch版
+
+http://www.taodudu.cc/news/show-6276704.html?action=onClick
+报错
+
+
+损失不对
+
+gpt full 两个对应上了

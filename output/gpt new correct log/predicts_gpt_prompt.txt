@@ -1,0 +1,36 @@
+method:greedy
+Tommy was very close to his dad and loved him greatly. He was a big fan of his favorite team. Tom was always looking for a new team to play for. His dad was the best player he could find. Tommy was able to find a team that he liked and play with.
+Tim was dating a girl who was easily scared. She was very shy and didn't know how to talk to her. Tim was so scared that he decided to go to the bathroom. He was scared to get out of the shower.
+Samuel collected butterflies for his collection. He was excited to see them. Sam was a little nervous about them, but he was happy to find them!
+She ran outside without her shoes. She was wearing a pair of shoes and was running. Her shoes were too tight. The shoes had to be replaced.
+There once was a man named Larry Butterfrog. He was an avid golfer. Larry was always looking for a place to play golf. When he found a golf course, he decided to go to the golf club.
+Warren got a C on his English test, missing a B by one question. Warren was so excited that he asked his teacher to take him to the test. He was told that the C was a good test and he would be able to pass.
+Every weekend the Jefferson's go to the park. They go there to see the new park and see what they can do. The park is beautiful and the kids love it.
+Grayson begged to have his Xbox back. He was so excited. The Xbox was in his lap. When he got home he was amazed at how much he loved it.
+Tom wanted to gain more muscle. He started to lose weight. Tom was able to do it.
+Michelle got a cold soda out of the fridge and set it on the counter. She was so excited to see how it turned out. Michelle was very excited.
+Susan is from Germany. She is a student at the University of California, Berkeley. Susan is very excited about her new job. Her parents are very happy. They are also very proud of her.
+method:top_k_p
+Tommy was very close to his dad and loved him greatly. His mother was in the process of divorce. Tom was always looking forward to the future. Unfortunately, his mother wasn't happy.
+Tim was dating a girl who was easily scared. After she told Tim how scared she was, she found out about the relationship. Tim asked her if she could marry her, and Tim was happy.
+Samuel collected butterflies for his collection. He wanted to find them in an aquarium.
+She ran outside without her shoes. The night sky was dark, but not so dark as a rock. When she got home, it was still dark. She saw a beautiful sunset through the window.
+There once was a man named Larry Butterfrog. He was only ten years old. A friend bought him a nice little refrigerator. Larry went to work and used it for years.
+Warren got a C on his English test, missing a B by one question. Warren didn't know how to answer it. He said, "That means we'll give you a A." He then got on the test again and got an A.
+Every weekend the Jefferson's go to the park. It's a summer vacation. I would like to play at the picnic table in the garden and watch the sunset from the pool. Jefferson gets there just about 15 minutes late.
+Grayson begged to have his Xbox back. The mother told him to put it on the desk and that his voice would be heard by someone else. Grayson's Xbox went to the computer and the mother had to call the Xbox hotline to report him.
+Tom wanted to gain more muscle. He came up with the idea of training under the stars. A few weeks later he realized he had no legs. Tom was able to lift 20 times more.
+Michelle got a cold soda out of the fridge and set it on the counter. She didn't know what to do. Luckily, she learned how to cook. When Michelle did get cold, it didn, so she knew exactly what she was doing.
+Susan is from Germany. She is an accomplished painter. Her paintings were commissioned by her family. Susan started making them and later had a big project she started in her home in Switzerland.
+method:beam
+Tommy was very close to his dad and loved him greatly. When he was younger, he had a crush on his mom. He was so happy to see her again. Tom loved her so much that he decided to go out with her.
+Tim was dating a girl who was easily scared. He decided to go out with her. She was very shy and didn't know how to talk to him. Tim went to her room and asked her if she wanted to have sex. When she said yes, he kissed her on the lips.
+Samuel collected butterflies for his collection. He went to the store to pick them up. When he got home, he noticed that the butterflies were missing. Sam decided to take them home.
+She ran outside without her shoes. She ran into a neighbor's house. The neighbor saw her running and called 911. When she arrived at the house, she saw a man with a gun in his hand. He shot her twice in the back of the head.
+There once was a man named Larry Butterfrog. He lived in a small town in New York City. Larry was the only person in town who could speak English. When he came to the town, he had no idea what he was talking about. The only thing he knew was that it was Larry who was going to be the next president of the United States.
+Warren got a C on his English test, missing a B by one question. Warren decided to take the test again. He didn't know what he was doing wrong.
+Every weekend the Jefferson's go to the park. When they arrive, they are greeted by a large crowd of people. The park is filled with people from all walks of life.
+Grayson begged to have his Xbox back. He didn't want to lose it, so he bought a new one. The Xbox went on sale.
+Tom wanted to gain more muscle. He bought a new pair of shoes. When he walked into the store, he noticed that there were no shoes on the shelves. Tom decided to buy a pair.
+Michelle got a cold soda out of the fridge and set it on the counter. When she looked at it, she realized that it was a soda. She went back to the refrigerator and put it back on.
+Susan is from Germany. She works as a waitress at a restaurant. When she arrives at the restaurant, she is greeted by a man dressed in a suit and tie. Susan is shocked to find out that the man is not her boyfriend.

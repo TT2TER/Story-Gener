@@ -1,0 +1,60 @@
+  --------------------new_test  2023-12-31 22:31:51
+model loaded from ./output/model_gpt_adalora.ckpt
+method:greedy
+bleu_score:0.3219844267682769
+rouge_score:0.3975416415430742
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.3367049019671405
+rouge_score:0.39873915006567606
+-----------------------------------------------------
+method:beam
+bleu_score:0.2913556073354011
+rouge_score:0.36752156159307764
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): AdaLoraModel(
+      (model): GPT2LMHeadModel(
+        (transformer): GPT2Model(
+          (wte): Embedding(50257, 768)
+          (wpe): Embedding(1024, 768)
+          (drop): Dropout(p=0.1, inplace=False)
+          (h): ModuleList(
+            (0-11): 12 x GPT2Block(
+              (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (attn): GPT2Attention(
+                (c_attn): adalora.SVDLinear(
+                  (base_layer): Conv1D()
+                  (lora_dropout): ModuleDict(
+                    (default): Dropout(p=0.1, inplace=False)
+                  )
+                  (lora_A): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 12x768 (cuda:0)])
+                  (lora_B): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 2304x12 (cuda:0)])
+                  (lora_embedding_A): ParameterDict()
+                  (lora_embedding_B): ParameterDict()
+                  (lora_E): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 12x1 (cuda:0)])
+                  (ranknum): ParameterDict(  (default): Parameter containing: [torch.cuda.FloatTensor of size 1 (cuda:0)])
+                )
+                (c_proj): Conv1D()
+                (attn_dropout): Dropout(p=0.1, inplace=False)
+                (resid_dropout): Dropout(p=0.1, inplace=False)
+              )
+              (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (mlp): GPT2MLP(
+                (c_fc): Conv1D()
+                (c_proj): Conv1D()
+                (act): NewGELUActivation()
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+          )
+          (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        )
+        (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+      )
+    )
+  )
+)
+Total Parameters: 124882332
+Trainable Parameters: 442512

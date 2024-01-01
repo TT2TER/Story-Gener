@@ -1,0 +1,941 @@
+  new_train  2023-12-26 23:26:17
+  new_train  2023-12-26 23:28:53
+  new_train  2023-12-26 23:34:22
+2023-12-26 23:39:19
+Loss of the network on the test data: 3.10217102766037
+Accuracy of the network on the test data: 56.4308 %
+Epoch: 1, Learning Rate: 0.003
+  new_train  2023-12-26 23:40:30
+2023-12-26 23:41:00
+Loss of the network on the test data: 2.9519533455371856
+Accuracy of the network on the test data: 57.1204 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-26 23:41:30
+Loss of the network on the test data: 2.798998498916626
+Accuracy of the network on the test data: 59.4554 %
+Epoch: 2, Learning Rate: 0.003
+2023-12-26 23:41:59
+Loss of the network on the test data: 2.7148978412151337
+Accuracy of the network on the test data: 60.4797 %
+Epoch: 3, Learning Rate: 0.003
+2023-12-26 23:42:28
+Loss of the network on the test data: 2.674831414222717
+Accuracy of the network on the test data: 60.7723 %
+Epoch: 4, Learning Rate: 0.003
+2023-12-26 23:42:57
+Loss of the network on the test data: 2.6531889021396635
+Accuracy of the network on the test data: 60.8884 %
+Epoch: 5, Learning Rate: 0.003
+2023-12-26 23:43:27
+Loss of the network on the test data: 2.6353870391845704
+Accuracy of the network on the test data: 61.1524 %
+Epoch: 6, Learning Rate: 0.003
+2023-12-26 23:43:56
+Loss of the network on the test data: 2.622007441520691
+Accuracy of the network on the test data: 61.2993 %
+Epoch: 7, Learning Rate: 0.003
+2023-12-26 23:44:25
+Loss of the network on the test data: 2.60966295003891
+Accuracy of the network on the test data: 61.4155 %
+Epoch: 8, Learning Rate: 0.003
+2023-12-26 23:44:55
+Loss of the network on the test data: 2.5994422137737274
+Accuracy of the network on the test data: 61.5068 %
+Epoch: 9, Learning Rate: 0.003
+2023-12-26 23:45:24
+Loss of the network on the test data: 2.5987322449684145
+Accuracy of the network on the test data: 61.4834 %
+Epoch: 10, Learning Rate: 0.003
+2023-12-26 23:45:53
+Loss of the network on the test data: 2.5927085638046266
+Accuracy of the network on the test data: 61.5095 %
+Epoch: 11, Learning Rate: 0.003
+2023-12-26 23:46:22
+Loss of the network on the test data: 2.587744432687759
+Accuracy of the network on the test data: 61.6996 %
+Epoch: 12, Learning Rate: 0.003
+2023-12-26 23:46:52
+Loss of the network on the test data: 2.5789070069789886
+Accuracy of the network on the test data: 61.8445 %
+Epoch: 13, Learning Rate: 0.003
+2023-12-26 23:47:21
+Loss of the network on the test data: 2.578918790817261
+Accuracy of the network on the test data: 61.8525 %
+Epoch: 14, Learning Rate: 0.003
+2023-12-26 23:47:50
+Loss of the network on the test data: 2.579752564430237
+Accuracy of the network on the test data: 61.7594 %
+Epoch: 15, Learning Rate: 0.003
+2023-12-26 23:48:20
+Loss of the network on the test data: 2.5747595727443695
+Accuracy of the network on the test data: 61.8816 %
+Epoch: 16, Learning Rate: 0.003
+2023-12-26 23:48:49
+Loss of the network on the test data: 2.575127500295639
+Accuracy of the network on the test data: 61.9236 %
+Epoch: 17, Learning Rate: 0.003
+2023-12-26 23:49:18
+Loss of the network on the test data: 2.560912048816681
+Accuracy of the network on the test data: 61.9747 %
+Epoch: 18, Learning Rate: 0.0009
+2023-12-26 23:49:48
+Loss of the network on the test data: 2.5600661635398865
+Accuracy of the network on the test data: 62.0058 %
+Epoch: 19, Learning Rate: 0.0009
+2023-12-26 23:50:17
+Loss of the network on the test data: 2.5589720726013185
+Accuracy of the network on the test data: 61.9738 %
+Epoch: 20, Learning Rate: 0.0009
+2023-12-26 23:50:46
+Loss of the network on the test data: 2.5587892293930055
+Accuracy of the network on the test data: 62.0178 %
+Epoch: 21, Learning Rate: 0.0009
+2023-12-26 23:51:16
+Loss of the network on the test data: 2.5576485693454742
+Accuracy of the network on the test data: 61.9888 %
+Epoch: 22, Learning Rate: 0.0009
+2023-12-26 23:51:45
+Loss of the network on the test data: 2.557841044664383
+Accuracy of the network on the test data: 61.9825 %
+Epoch: 23, Learning Rate: 0.0009
+2023-12-26 23:52:14
+Loss of the network on the test data: 2.556541270017624
+Accuracy of the network on the test data: 62.0688 %
+Epoch: 24, Learning Rate: 0.0009
+2023-12-26 23:52:43
+Loss of the network on the test data: 2.557438164949417
+Accuracy of the network on the test data: 62.0104 %
+Epoch: 25, Learning Rate: 0.0009
+2023-12-26 23:53:13
+Loss of the network on the test data: 2.556511491537094
+Accuracy of the network on the test data: 62.0177 %
+Epoch: 26, Learning Rate: 0.0009
+2023-12-26 23:53:42
+Loss of the network on the test data: 2.5543855309486387
+Accuracy of the network on the test data: 62.0456 %
+Epoch: 27, Learning Rate: 0.0009
+2023-12-26 23:54:11
+Loss of the network on the test data: 2.5551890075206756
+Accuracy of the network on the test data: 62.0455 %
+Epoch: 28, Learning Rate: 0.0009
+2023-12-26 23:54:41
+Loss of the network on the test data: 2.5519744634628294
+Accuracy of the network on the test data: 62.0759 %
+Epoch: 29, Learning Rate: 0.00027
+2023-12-26 23:55:10
+Loss of the network on the test data: 2.5518921673297883
+Accuracy of the network on the test data: 62.0341 %
+Epoch: 30, Learning Rate: 0.00027
+2023-12-26 23:55:39
+Loss of the network on the test data: 2.5515383064746855
+Accuracy of the network on the test data: 62.0505 %
+Epoch: 31, Learning Rate: 0.00027
+2023-12-26 23:56:09
+Loss of the network on the test data: 2.551948142051697
+Accuracy of the network on the test data: 62.0792 %
+Epoch: 32, Learning Rate: 0.00027
+2023-12-26 23:56:38
+Loss of the network on the test data: 2.55131716132164
+Accuracy of the network on the test data: 62.0723 %
+Epoch: 33, Learning Rate: 0.00027
+  new_train  2023-12-26 23:57:12
+2023-12-26 23:57:42
+Loss of the network on the test data: 3.1981651425361632
+Accuracy of the network on the test data: 55.6116 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-26 23:58:12
+Loss of the network on the test data: 2.87564879655838
+Accuracy of the network on the test data: 58.0877 %
+Epoch: 2, Learning Rate: 0.003
+  new_train  2023-12-26 23:59:08
+2023-12-26 23:59:38
+Loss of the network on the test data: 2.9160744547843933
+Accuracy of the network on the test data: 57.631 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-27 00:00:07
+Loss of the network on the test data: 2.768752646446228
+Accuracy of the network on the test data: 59.7129 %
+Epoch: 2, Learning Rate: 0.003
+2023-12-27 00:00:36
+Loss of the network on the test data: 2.6935098469257355
+Accuracy of the network on the test data: 60.6786 %
+Epoch: 3, Learning Rate: 0.003
+2023-12-27 00:01:06
+Loss of the network on the test data: 2.6609437584877016
+Accuracy of the network on the test data: 60.9057 %
+Epoch: 4, Learning Rate: 0.003
+  new_train  2023-12-27 00:01:39
+2023-12-27 00:02:09
+Loss of the network on the test data: 2.75995232462883
+Accuracy of the network on the test data: 59.8137 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-27 00:02:39
+Loss of the network on the test data: 2.645737874507904
+Accuracy of the network on the test data: 61.0136 %
+Epoch: 2, Learning Rate: 0.003
+  new_train  2023-12-27 00:04:38
+2023-12-27 00:05:08
+Loss of the network on the test data: 2.8064101696014405
+Accuracy of the network on the test data: 59.1086 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-27 00:05:38
+Loss of the network on the test data: 2.6748050451278687
+Accuracy of the network on the test data: 60.7331 %
+Epoch: 2, Learning Rate: 0.003
+2023-12-27 00:06:08
+Loss of the network on the test data: 2.6187622010707856
+Accuracy of the network on the test data: 61.2942 %
+Epoch: 3, Learning Rate: 0.003
+2023-12-27 00:06:38
+Loss of the network on the test data: 2.6022867143154143
+Accuracy of the network on the test data: 61.5269 %
+Epoch: 4, Learning Rate: 0.003
+2023-12-27 00:07:09
+Loss of the network on the test data: 2.5867765724658964
+Accuracy of the network on the test data: 61.7196 %
+Epoch: 5, Learning Rate: 0.003
+2023-12-27 00:07:39
+Loss of the network on the test data: 2.587005192041397
+Accuracy of the network on the test data: 61.8432 %
+Epoch: 6, Learning Rate: 0.003
+  new_train  2023-12-27 00:08:40
+2023-12-27 00:09:11
+Loss of the network on the test data: 2.776036775112152
+Accuracy of the network on the test data: 59.467 %
+Epoch: 1, Learning Rate: 0.003
+  new_train  2023-12-27 00:12:18
+2023-12-27 00:12:55
+Loss of the network on the test data: 2.647138625383377
+Accuracy of the network on the test data: 60.5015 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-27 00:13:32
+Loss of the network on the test data: 2.560001426935196
+Accuracy of the network on the test data: 61.752 %
+Epoch: 2, Learning Rate: 0.003
+  new_train  2023-12-27 00:14:14
+2023-12-27 00:14:46
+Loss of the network on the test data: 3.0463452458381655
+Accuracy of the network on the test data: 56.5805 %
+Epoch: 1, Learning Rate: 0.003
+  new_train  2023-12-27 00:15:55
+2023-12-27 00:16:46
+Loss of the network on the test data: 2.539999806880951
+Accuracy of the network on the test data: 61.246 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-27 00:17:38
+Loss of the network on the test data: 2.4539732336997986
+Accuracy of the network on the test data: 62.9691 %
+Epoch: 2, Learning Rate: 0.003
+2023-12-27 00:18:29
+Loss of the network on the test data: 2.453742128610611
+Accuracy of the network on the test data: 62.7306 %
+Epoch: 3, Learning Rate: 0.003
+2023-12-27 00:19:20
+Loss of the network on the test data: 2.4409782767295836
+Accuracy of the network on the test data: 63.0427 %
+Epoch: 4, Learning Rate: 0.003
+2023-12-27 00:20:11
+Loss of the network on the test data: 2.431414473056793
+Accuracy of the network on the test data: 63.2804 %
+Epoch: 5, Learning Rate: 0.003
+2023-12-27 00:21:03
+Loss of the network on the test data: 2.437828224897385
+Accuracy of the network on the test data: 63.2027 %
+Epoch: 6, Learning Rate: 0.003
+2023-12-27 00:21:54
+Loss of the network on the test data: 2.4295384645462037
+Accuracy of the network on the test data: 63.2563 %
+Epoch: 7, Learning Rate: 0.003
+2023-12-27 00:22:45
+Loss of the network on the test data: 2.4230396151542664
+Accuracy of the network on the test data: 63.4416 %
+Epoch: 8, Learning Rate: 0.003
+2023-12-27 00:23:36
+Loss of the network on the test data: 2.4997987866401674
+Accuracy of the network on the test data: 62.2444 %
+Epoch: 9, Learning Rate: 0.003
+2023-12-27 00:24:27
+Loss of the network on the test data: 2.4230852663516997
+Accuracy of the network on the test data: 63.3973 %
+Epoch: 10, Learning Rate: 0.003
+2023-12-27 00:25:19
+Loss of the network on the test data: 2.5926867842674257
+Accuracy of the network on the test data: 61.1761 %
+Epoch: 11, Learning Rate: 0.003
+2023-12-27 00:26:10
+Loss of the network on the test data: 2.512350058555603
+Accuracy of the network on the test data: 61.9894 %
+Epoch: 12, Learning Rate: 0.003
+2023-12-27 00:27:01
+Loss of the network on the test data: 2.4922776341438295
+Accuracy of the network on the test data: 62.4174 %
+Epoch: 13, Learning Rate: 0.003
+2023-12-27 00:27:52
+Loss of the network on the test data: 2.4856417417526244
+Accuracy of the network on the test data: 62.3209 %
+Epoch: 14, Learning Rate: 0.003
+2023-12-27 00:28:43
+Loss of the network on the test data: 2.4773543894290926
+Accuracy of the network on the test data: 62.6147 %
+Epoch: 15, Learning Rate: 0.003
+2023-12-27 00:29:35
+Loss of the network on the test data: 2.468512535095215
+Accuracy of the network on the test data: 62.6193 %
+Epoch: 16, Learning Rate: 0.003
+2023-12-27 00:30:26
+Loss of the network on the test data: 2.472791939973831
+Accuracy of the network on the test data: 62.6263 %
+Epoch: 17, Learning Rate: 0.003
+2023-12-27 00:31:17
+Loss of the network on the test data: 2.48453574180603
+Accuracy of the network on the test data: 62.3201 %
+Epoch: 18, Learning Rate: 0.003
+2023-12-27 00:32:08
+Loss of the network on the test data: 2.474016374349594
+Accuracy of the network on the test data: 62.7544 %
+Epoch: 19, Learning Rate: 0.003
+2023-12-27 00:32:59
+Loss of the network on the test data: 2.4267189860343934
+Accuracy of the network on the test data: 63.293 %
+Epoch: 20, Learning Rate: 0.0009
+2023-12-27 00:33:50
+Loss of the network on the test data: 2.4197096467018127
+Accuracy of the network on the test data: 63.3078 %
+Epoch: 21, Learning Rate: 0.0009
+2023-12-27 00:34:42
+Loss of the network on the test data: 2.4133501052856445
+Accuracy of the network on the test data: 63.4036 %
+Epoch: 22, Learning Rate: 0.0009
+2023-12-27 00:35:33
+Loss of the network on the test data: 2.411694145202637
+Accuracy of the network on the test data: 63.4291 %
+Epoch: 23, Learning Rate: 0.0009
+2023-12-27 00:36:24
+Loss of the network on the test data: 2.403457462787628
+Accuracy of the network on the test data: 63.5728 %
+Epoch: 24, Learning Rate: 0.0009
+2023-12-27 00:37:15
+Loss of the network on the test data: 2.401057040691376
+Accuracy of the network on the test data: 63.53 %
+Epoch: 25, Learning Rate: 0.0009
+2023-12-27 00:38:06
+Loss of the network on the test data: 2.401320272684097
+Accuracy of the network on the test data: 63.4936 %
+Epoch: 26, Learning Rate: 0.0009
+2023-12-27 00:38:58
+Loss of the network on the test data: 2.399915152788162
+Accuracy of the network on the test data: 63.3728 %
+Epoch: 27, Learning Rate: 0.0009
+2023-12-27 00:39:49
+Loss of the network on the test data: 2.392420047521591
+Accuracy of the network on the test data: 63.6776 %
+Epoch: 28, Learning Rate: 0.0009
+2023-12-27 00:40:40
+Loss of the network on the test data: 2.3915556490421297
+Accuracy of the network on the test data: 63.7006 %
+Epoch: 29, Learning Rate: 0.0009
+2023-12-27 00:41:31
+Loss of the network on the test data: 2.3952952086925507
+Accuracy of the network on the test data: 63.5583 %
+Epoch: 30, Learning Rate: 0.0009
+2023-12-27 00:42:22
+Loss of the network on the test data: 2.389675682783127
+Accuracy of the network on the test data: 63.619 %
+Epoch: 31, Learning Rate: 0.0009
+2023-12-27 00:43:13
+Loss of the network on the test data: 2.38438766002655
+Accuracy of the network on the test data: 63.724 %
+Epoch: 32, Learning Rate: 0.0009
+2023-12-27 00:44:05
+Loss of the network on the test data: 2.4457676112651825
+Accuracy of the network on the test data: 63.1757 %
+Epoch: 33, Learning Rate: 0.0009
+2023-12-27 00:44:56
+Loss of the network on the test data: 2.386620730161667
+Accuracy of the network on the test data: 63.6984 %
+Epoch: 34, Learning Rate: 0.0009
+2023-12-27 00:45:47
+Loss of the network on the test data: 2.3896500527858735
+Accuracy of the network on the test data: 63.7039 %
+Epoch: 35, Learning Rate: 0.0009
+2023-12-27 00:46:38
+Loss of the network on the test data: 2.3880969405174257
+Accuracy of the network on the test data: 63.5762 %
+Epoch: 36, Learning Rate: 0.0009
+2023-12-27 00:47:29
+Loss of the network on the test data: 2.385117679834366
+Accuracy of the network on the test data: 63.721 %
+Epoch: 37, Learning Rate: 0.0009
+2023-12-27 00:48:21
+Loss of the network on the test data: 2.3819483876228333
+Accuracy of the network on the test data: 63.7134 %
+Epoch: 38, Learning Rate: 0.0009
+2023-12-27 00:49:12
+Loss of the network on the test data: 2.389835375547409
+Accuracy of the network on the test data: 63.6236 %
+Epoch: 39, Learning Rate: 0.0009
+2023-12-27 00:50:03
+Loss of the network on the test data: 2.3878800570964813
+Accuracy of the network on the test data: 63.6969 %
+Epoch: 40, Learning Rate: 0.0009
+2023-12-27 00:50:54
+Loss of the network on the test data: 2.384841430187225
+Accuracy of the network on the test data: 63.678 %
+Epoch: 41, Learning Rate: 0.0009
+2023-12-27 00:51:45
+Loss of the network on the test data: 2.3824594914913177
+Accuracy of the network on the test data: 63.7641 %
+Epoch: 42, Learning Rate: 0.0009
+2023-12-27 00:52:37
+Loss of the network on the test data: 2.382692366838455
+Accuracy of the network on the test data: 63.6427 %
+Epoch: 43, Learning Rate: 0.0009
+2023-12-27 00:53:28
+Loss of the network on the test data: 2.3670623183250425
+Accuracy of the network on the test data: 63.8165 %
+Epoch: 44, Learning Rate: 0.00027
+2023-12-27 00:54:19
+Loss of the network on the test data: 2.3656039893627168
+Accuracy of the network on the test data: 63.8077 %
+Epoch: 45, Learning Rate: 0.00027
+2023-12-27 00:55:10
+Loss of the network on the test data: 2.367752677202225
+Accuracy of the network on the test data: 63.7457 %
+Epoch: 46, Learning Rate: 0.00027
+2023-12-27 00:56:01
+Loss of the network on the test data: 2.3638507068157195
+Accuracy of the network on the test data: 63.8466 %
+Epoch: 47, Learning Rate: 0.00027
+2023-12-27 00:56:52
+Loss of the network on the test data: 2.363297927379608
+Accuracy of the network on the test data: 63.8193 %
+Epoch: 48, Learning Rate: 0.00027
+2023-12-27 00:57:44
+Loss of the network on the test data: 2.362618273496628
+Accuracy of the network on the test data: 63.7883 %
+Epoch: 49, Learning Rate: 0.00027
+2023-12-27 00:58:35
+Loss of the network on the test data: 2.362204837799072
+Accuracy of the network on the test data: 63.8283 %
+Epoch: 50, Learning Rate: 0.00027
+2023-12-27 00:59:26
+Loss of the network on the test data: 2.3639281570911406
+Accuracy of the network on the test data: 63.813 %
+Epoch: 51, Learning Rate: 0.00027
+2023-12-27 01:00:17
+Loss of the network on the test data: 2.358863389492035
+Accuracy of the network on the test data: 63.8579 %
+Epoch: 52, Learning Rate: 0.00027
+2023-12-27 01:01:08
+Loss of the network on the test data: 2.360152614116669
+Accuracy of the network on the test data: 63.83 %
+Epoch: 53, Learning Rate: 0.00027
+2023-12-27 01:01:59
+Loss of the network on the test data: 2.3596347749233244
+Accuracy of the network on the test data: 63.8435 %
+Epoch: 54, Learning Rate: 0.00027
+2023-12-27 01:02:51
+Loss of the network on the test data: 2.3586211621761324
+Accuracy of the network on the test data: 63.8086 %
+Epoch: 55, Learning Rate: 0.00027
+2023-12-27 01:03:42
+Loss of the network on the test data: 2.3593944549560546
+Accuracy of the network on the test data: 63.8459 %
+Epoch: 56, Learning Rate: 0.00027
+2023-12-27 01:04:33
+Loss of the network on the test data: 2.3587591648101807
+Accuracy of the network on the test data: 63.8746 %
+Epoch: 57, Learning Rate: 0.00027
+2023-12-27 01:05:24
+Loss of the network on the test data: 2.3575096428394318
+Accuracy of the network on the test data: 63.8805 %
+Epoch: 58, Learning Rate: 0.00027
+2023-12-27 01:06:15
+Loss of the network on the test data: 2.352772581577301
+Accuracy of the network on the test data: 63.8894 %
+Epoch: 59, Learning Rate: 8.1e-05
+2023-12-27 01:07:06
+Loss of the network on the test data: 2.351717638969421
+Accuracy of the network on the test data: 63.8676 %
+Epoch: 60, Learning Rate: 8.1e-05
+2023-12-27 01:07:58
+Loss of the network on the test data: 2.351193428039551
+Accuracy of the network on the test data: 63.8862 %
+Epoch: 61, Learning Rate: 8.1e-05
+2023-12-27 01:08:49
+Loss of the network on the test data: 2.3514624357223513
+Accuracy of the network on the test data: 63.884 %
+Epoch: 62, Learning Rate: 8.1e-05
+2023-12-27 01:09:40
+Loss of the network on the test data: 2.3511059522628783
+Accuracy of the network on the test data: 63.8778 %
+Epoch: 63, Learning Rate: 8.1e-05
+2023-12-27 01:10:31
+Loss of the network on the test data: 2.349819266796112
+Accuracy of the network on the test data: 63.9008 %
+Epoch: 64, Learning Rate: 8.1e-05
+2023-12-27 01:11:22
+Loss of the network on the test data: 2.3503459095954895
+Accuracy of the network on the test data: 63.8932 %
+Epoch: 65, Learning Rate: 8.1e-05
+2023-12-27 01:12:13
+Loss of the network on the test data: 2.3507139980793
+Accuracy of the network on the test data: 63.8952 %
+Epoch: 66, Learning Rate: 8.1e-05
+2023-12-27 01:13:04
+Loss of the network on the test data: 2.3497515976428986
+Accuracy of the network on the test data: 63.9276 %
+Epoch: 67, Learning Rate: 8.1e-05
+2023-12-27 01:13:56
+Loss of the network on the test data: 2.3491418421268464
+Accuracy of the network on the test data: 63.914 %
+Epoch: 68, Learning Rate: 8.1e-05
+2023-12-27 01:14:47
+Loss of the network on the test data: 2.3501155734062196
+Accuracy of the network on the test data: 63.9122 %
+Epoch: 69, Learning Rate: 8.1e-05
+2023-12-27 01:15:38
+Loss of the network on the test data: 2.349374550580978
+Accuracy of the network on the test data: 63.9236 %
+Epoch: 70, Learning Rate: 8.1e-05
+2023-12-27 01:16:29
+Loss of the network on the test data: 2.3479150950908663
+Accuracy of the network on the test data: 63.9339 %
+Epoch: 71, Learning Rate: 2.43e-05
+2023-12-27 01:17:20
+Loss of the network on the test data: 2.3478265762329102
+Accuracy of the network on the test data: 63.8971 %
+Epoch: 72, Learning Rate: 2.43e-05
+2023-12-27 01:18:11
+Loss of the network on the test data: 2.3479145050048826
+Accuracy of the network on the test data: 63.9189 %
+Epoch: 73, Learning Rate: 2.43e-05
+2023-12-27 01:19:02
+Loss of the network on the test data: 2.347783476114273
+Accuracy of the network on the test data: 63.9254 %
+Epoch: 74, Learning Rate: 2.43e-05
+2023-12-27 01:19:53
+Loss of the network on the test data: 2.347723734378815
+Accuracy of the network on the test data: 63.9342 %
+Epoch: 75, Learning Rate: 2.43e-05
+2023-12-27 01:20:44
+Loss of the network on the test data: 2.347593057155609
+Accuracy of the network on the test data: 63.933 %
+Epoch: 76, Learning Rate: 2.43e-05
+2023-12-27 01:21:36
+Loss of the network on the test data: 2.3480900526046753
+Accuracy of the network on the test data: 63.9223 %
+Epoch: 77, Learning Rate: 2.43e-05
+2023-12-27 01:22:27
+Loss of the network on the test data: 2.3474773526191712
+Accuracy of the network on the test data: 63.9317 %
+Epoch: 78, Learning Rate: 2.43e-05
+2023-12-27 01:23:18
+Loss of the network on the test data: 2.347482478618622
+Accuracy of the network on the test data: 63.9338 %
+Epoch: 79, Learning Rate: 2.43e-05
+2023-12-27 01:24:09
+Loss of the network on the test data: 2.347397804260254
+Accuracy of the network on the test data: 63.9295 %
+Epoch: 80, Learning Rate: 2.43e-05
+2023-12-27 01:25:00
+Loss of the network on the test data: 2.347453844547272
+Accuracy of the network on the test data: 63.9471 %
+Epoch: 81, Learning Rate: 2.43e-05
+2023-12-27 01:25:51
+Loss of the network on the test data: 2.347342795133591
+Accuracy of the network on the test data: 63.9357 %
+Epoch: 82, Learning Rate: 7.29e-06
+2023-12-27 01:26:42
+Loss of the network on the test data: 2.347191697359085
+Accuracy of the network on the test data: 63.9423 %
+Epoch: 83, Learning Rate: 7.29e-06
+2023-12-27 01:27:34
+Loss of the network on the test data: 2.347256201505661
+Accuracy of the network on the test data: 63.9327 %
+Epoch: 84, Learning Rate: 7.29e-06
+2023-12-27 01:28:25
+Loss of the network on the test data: 2.3473016262054442
+Accuracy of the network on the test data: 63.9399 %
+Epoch: 85, Learning Rate: 7.29e-06
+2023-12-27 01:29:16
+Loss of the network on the test data: 2.347232049703598
+Accuracy of the network on the test data: 63.9427 %
+Epoch: 86, Learning Rate: 7.29e-06
+2023-12-27 01:30:07
+Loss of the network on the test data: 2.3472307145595552
+Accuracy of the network on the test data: 63.9397 %
+Epoch: 87, Learning Rate: 7.29e-06
+2023-12-27 01:30:58
+Loss of the network on the test data: 2.3472984433174133
+Accuracy of the network on the test data: 63.9306 %
+Epoch: 88, Learning Rate: 7.29e-06
+2023-12-27 01:31:49
+Loss of the network on the test data: 2.3473965764045714
+Accuracy of the network on the test data: 63.9257 %
+Epoch: 89, Learning Rate: 7.29e-06
+2023-12-27 01:32:40
+Loss of the network on the test data: 2.3473085045814512
+Accuracy of the network on the test data: 63.9312 %
+Epoch: 90, Learning Rate: 7.29e-06
+  new_train  2023-12-27 01:41:32
+2023-12-27 01:42:04
+Loss of the network on the test data: 2.811700093746185
+Accuracy of the network on the test data: 59.2199 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-27 01:42:34
+Loss of the network on the test data: 2.672625809907913
+Accuracy of the network on the test data: 60.6391 %
+Epoch: 2, Learning Rate: 0.003
+2023-12-27 01:43:04
+Loss of the network on the test data: 2.6127393662929537
+Accuracy of the network on the test data: 61.3438 %
+Epoch: 3, Learning Rate: 0.003
+2023-12-27 01:43:35
+Loss of the network on the test data: 2.5886244237422944
+Accuracy of the network on the test data: 61.8715 %
+Epoch: 4, Learning Rate: 0.003
+2023-12-27 01:44:05
+Loss of the network on the test data: 2.57386434674263
+Accuracy of the network on the test data: 62.1384 %
+Epoch: 5, Learning Rate: 0.003
+2023-12-27 01:44:36
+Loss of the network on the test data: 2.5591917812824247
+Accuracy of the network on the test data: 62.4314 %
+Epoch: 6, Learning Rate: 0.003
+2023-12-27 01:45:07
+Loss of the network on the test data: 2.548890435695648
+Accuracy of the network on the test data: 62.6315 %
+Epoch: 7, Learning Rate: 0.003
+2023-12-27 01:45:37
+Loss of the network on the test data: 2.539702999591827
+Accuracy of the network on the test data: 62.8149 %
+Epoch: 8, Learning Rate: 0.003
+2023-12-27 01:46:08
+Loss of the network on the test data: 2.5494220554828644
+Accuracy of the network on the test data: 62.4917 %
+Epoch: 9, Learning Rate: 0.003
+2023-12-27 01:46:38
+Loss of the network on the test data: 2.5394269287586213
+Accuracy of the network on the test data: 62.606 %
+Epoch: 10, Learning Rate: 0.003
+2023-12-27 01:47:09
+Loss of the network on the test data: 2.5505480110645293
+Accuracy of the network on the test data: 62.6562 %
+Epoch: 11, Learning Rate: 0.003
+2023-12-27 01:47:39
+Loss of the network on the test data: 2.5296527445316315
+Accuracy of the network on the test data: 62.9723 %
+Epoch: 12, Learning Rate: 0.003
+2023-12-27 01:48:10
+Loss of the network on the test data: 2.5275502681732176
+Accuracy of the network on the test data: 62.9339 %
+Epoch: 13, Learning Rate: 0.003
+2023-12-27 01:48:40
+Loss of the network on the test data: 2.5245452642440798
+Accuracy of the network on the test data: 63.0877 %
+Epoch: 14, Learning Rate: 0.003
+2023-12-27 01:49:11
+Loss of the network on the test data: 2.522201043367386
+Accuracy of the network on the test data: 63.0239 %
+Epoch: 15, Learning Rate: 0.003
+2023-12-27 01:49:42
+Loss of the network on the test data: 2.5753718972206117
+Accuracy of the network on the test data: 62.1099 %
+Epoch: 16, Learning Rate: 0.003
+2023-12-27 01:50:12
+Loss of the network on the test data: 2.5405969440937044
+Accuracy of the network on the test data: 62.7861 %
+Epoch: 17, Learning Rate: 0.003
+2023-12-27 01:50:43
+Loss of the network on the test data: 2.5312858521938324
+Accuracy of the network on the test data: 62.8613 %
+Epoch: 18, Learning Rate: 0.003
+2023-12-27 01:51:13
+Loss of the network on the test data: 2.5314309775829313
+Accuracy of the network on the test data: 62.8162 %
+Epoch: 19, Learning Rate: 0.003
+2023-12-27 01:51:44
+Loss of the network on the test data: 2.522779107093811
+Accuracy of the network on the test data: 62.9914 %
+Epoch: 20, Learning Rate: 0.003
+2023-12-27 01:52:14
+Loss of the network on the test data: 2.522285360097885
+Accuracy of the network on the test data: 63.0067 %
+Epoch: 21, Learning Rate: 0.003
+2023-12-27 01:52:45
+Loss of the network on the test data: 2.5219119608402254
+Accuracy of the network on the test data: 63.0081 %
+Epoch: 22, Learning Rate: 0.003
+2023-12-27 01:53:15
+Loss of the network on the test data: 2.519695496559143
+Accuracy of the network on the test data: 63.1171 %
+Epoch: 23, Learning Rate: 0.003
+2023-12-27 01:53:46
+Loss of the network on the test data: 2.521029555797577
+Accuracy of the network on the test data: 63.0851 %
+Epoch: 24, Learning Rate: 0.003
+2023-12-27 01:54:16
+Loss of the network on the test data: 2.517289751768112
+Accuracy of the network on the test data: 63.0185 %
+Epoch: 25, Learning Rate: 0.003
+2023-12-27 01:54:47
+Loss of the network on the test data: 2.5052696406841277
+Accuracy of the network on the test data: 63.1127 %
+Epoch: 26, Learning Rate: 0.0009
+2023-12-27 01:55:18
+Loss of the network on the test data: 2.5033884584903716
+Accuracy of the network on the test data: 63.1455 %
+Epoch: 27, Learning Rate: 0.0009
+2023-12-27 01:55:48
+Loss of the network on the test data: 2.5027447640895844
+Accuracy of the network on the test data: 63.1859 %
+Epoch: 28, Learning Rate: 0.0009
+2023-12-27 01:56:19
+Loss of the network on the test data: 2.503502082824707
+Accuracy of the network on the test data: 63.1706 %
+Epoch: 29, Learning Rate: 0.0009
+2023-12-27 01:56:49
+Loss of the network on the test data: 2.5026148080825807
+Accuracy of the network on the test data: 63.1662 %
+Epoch: 30, Learning Rate: 0.0009
+2023-12-27 01:57:20
+Loss of the network on the test data: 2.505871319770813
+Accuracy of the network on the test data: 63.0521 %
+Epoch: 31, Learning Rate: 0.0009
+2023-12-27 01:57:50
+Loss of the network on the test data: 2.502501702308655
+Accuracy of the network on the test data: 63.1358 %
+Epoch: 32, Learning Rate: 0.0009
+2023-12-27 01:58:21
+Loss of the network on the test data: 2.503376638889313
+Accuracy of the network on the test data: 63.132 %
+Epoch: 33, Learning Rate: 0.0009
+2023-12-27 01:58:51
+Loss of the network on the test data: 2.501356542110443
+Accuracy of the network on the test data: 63.1776 %
+Epoch: 34, Learning Rate: 0.0009
+2023-12-27 01:59:22
+Loss of the network on the test data: 2.5027308225631715
+Accuracy of the network on the test data: 63.1596 %
+Epoch: 35, Learning Rate: 0.0009
+2023-12-27 01:59:52
+Loss of the network on the test data: 2.5011828541755676
+Accuracy of the network on the test data: 63.2325 %
+Epoch: 36, Learning Rate: 0.0009
+2023-12-27 02:00:23
+Loss of the network on the test data: 2.5025100648403167
+Accuracy of the network on the test data: 63.0995 %
+Epoch: 37, Learning Rate: 0.0009
+2023-12-27 02:00:53
+Loss of the network on the test data: 2.500877261161804
+Accuracy of the network on the test data: 63.1788 %
+Epoch: 38, Learning Rate: 0.0009
+2023-12-27 02:01:24
+Loss of the network on the test data: 2.4977234065532685
+Accuracy of the network on the test data: 63.1921 %
+Epoch: 39, Learning Rate: 0.00027
+2023-12-27 02:01:54
+Loss of the network on the test data: 2.4973390460014344
+Accuracy of the network on the test data: 63.1937 %
+Epoch: 40, Learning Rate: 0.00027
+2023-12-27 02:02:25
+Loss of the network on the test data: 2.496809661388397
+Accuracy of the network on the test data: 63.1985 %
+Epoch: 41, Learning Rate: 0.00027
+2023-12-27 02:02:55
+Loss of the network on the test data: 2.4972542345523836
+Accuracy of the network on the test data: 63.2165 %
+Epoch: 42, Learning Rate: 0.00027
+2023-12-27 02:03:26
+Loss of the network on the test data: 2.4991807997226716
+Accuracy of the network on the test data: 63.1324 %
+Epoch: 43, Learning Rate: 0.00027
+2023-12-27 02:03:56
+Loss of the network on the test data: 2.4967276751995087
+Accuracy of the network on the test data: 63.2131 %
+Epoch: 44, Learning Rate: 0.00027
+2023-12-27 02:04:27
+Loss of the network on the test data: 2.5043607890605926
+Accuracy of the network on the test data: 63.1138 %
+Epoch: 45, Learning Rate: 0.00027
+2023-12-27 02:04:58
+Loss of the network on the test data: 2.497037971019745
+Accuracy of the network on the test data: 63.1835 %
+Epoch: 46, Learning Rate: 0.00027
+2023-12-27 02:05:29
+Loss of the network on the test data: 2.4970864951610565
+Accuracy of the network on the test data: 63.2182 %
+Epoch: 47, Learning Rate: 0.00027
+2023-12-27 02:06:03
+Loss of the network on the test data: 2.516335093975067
+Accuracy of the network on the test data: 62.6172 %
+Epoch: 48, Learning Rate: 0.00027
+2023-12-27 02:06:38
+Loss of the network on the test data: 2.4968169391155244
+Accuracy of the network on the test data: 63.1979 %
+Epoch: 49, Learning Rate: 0.00027
+2023-12-27 02:07:12
+Loss of the network on the test data: 2.49611434340477
+Accuracy of the network on the test data: 63.2245 %
+Epoch: 50, Learning Rate: 8.1e-05
+2023-12-27 02:07:47
+Loss of the network on the test data: 2.495701217651367
+Accuracy of the network on the test data: 63.223 %
+Epoch: 51, Learning Rate: 8.1e-05
+2023-12-27 02:08:21
+Loss of the network on the test data: 2.4959643483161926
+Accuracy of the network on the test data: 63.2185 %
+Epoch: 52, Learning Rate: 8.1e-05
+2023-12-27 02:08:56
+Loss of the network on the test data: 2.495741969347
+Accuracy of the network on the test data: 63.2151 %
+Epoch: 53, Learning Rate: 8.1e-05
+2023-12-27 02:09:30
+Loss of the network on the test data: 2.495828229188919
+Accuracy of the network on the test data: 63.2153 %
+Epoch: 54, Learning Rate: 8.1e-05
+2023-12-27 02:10:05
+Loss of the network on the test data: 2.4958960235118868
+Accuracy of the network on the test data: 63.2175 %
+Epoch: 55, Learning Rate: 8.1e-05
+2023-12-27 02:10:39
+Loss of the network on the test data: 2.4958086371421815
+Accuracy of the network on the test data: 63.206 %
+Epoch: 56, Learning Rate: 8.1e-05
+2023-12-27 02:11:14
+Loss of the network on the test data: 2.4954055905342103
+Accuracy of the network on the test data: 63.2258 %
+Epoch: 57, Learning Rate: 8.1e-05
+2023-12-27 02:11:48
+Loss of the network on the test data: 2.4954273879528044
+Accuracy of the network on the test data: 63.2188 %
+Epoch: 58, Learning Rate: 8.1e-05
+2023-12-27 02:12:23
+Loss of the network on the test data: 2.4955095171928408
+Accuracy of the network on the test data: 63.2387 %
+Epoch: 59, Learning Rate: 8.1e-05
+2023-12-27 02:12:57
+Loss of the network on the test data: 2.4956812143325804
+Accuracy of the network on the test data: 63.229 %
+Epoch: 60, Learning Rate: 8.1e-05
+2023-12-27 02:13:32
+Loss of the network on the test data: 2.495452082157135
+Accuracy of the network on the test data: 63.2277 %
+Epoch: 61, Learning Rate: 2.43e-05
+2023-12-27 02:14:07
+Loss of the network on the test data: 2.4953438520431517
+Accuracy of the network on the test data: 63.222 %
+Epoch: 62, Learning Rate: 2.43e-05
+2023-12-27 02:14:41
+Loss of the network on the test data: 2.4952495753765107
+Accuracy of the network on the test data: 63.2264 %
+Epoch: 63, Learning Rate: 2.43e-05
+2023-12-27 02:15:16
+Loss of the network on the test data: 2.4954085111618043
+Accuracy of the network on the test data: 63.2224 %
+Epoch: 64, Learning Rate: 2.43e-05
+2023-12-27 02:15:50
+Loss of the network on the test data: 2.4953347980976104
+Accuracy of the network on the test data: 63.2274 %
+Epoch: 65, Learning Rate: 2.43e-05
+2023-12-27 02:16:25
+Loss of the network on the test data: 2.4960534512996673
+Accuracy of the network on the test data: 63.1917 %
+Epoch: 66, Learning Rate: 2.43e-05
+2023-12-27 02:16:59
+Loss of the network on the test data: 2.4954536974430086
+Accuracy of the network on the test data: 63.2128 %
+Epoch: 67, Learning Rate: 2.43e-05
+2023-12-27 02:17:34
+Loss of the network on the test data: 2.495322674512863
+Accuracy of the network on the test data: 63.2173 %
+Epoch: 68, Learning Rate: 2.43e-05
+2023-12-27 02:18:08
+Loss of the network on the test data: 2.4953112661838532
+Accuracy of the network on the test data: 63.2227 %
+Epoch: 69, Learning Rate: 2.43e-05
+2023-12-27 02:18:43
+Loss of the network on the test data: 2.4953455686569215
+Accuracy of the network on the test data: 63.2142 %
+Epoch: 70, Learning Rate: 2.43e-05
+2023-12-27 02:19:17
+Loss of the network on the test data: 2.495254838466644
+Accuracy of the network on the test data: 63.2175 %
+Epoch: 71, Learning Rate: 2.43e-05
+2023-12-27 02:19:52
+Loss of the network on the test data: 2.4952673971652986
+Accuracy of the network on the test data: 63.2205 %
+Epoch: 72, Learning Rate: 7.29e-06
+2023-12-27 02:20:26
+Loss of the network on the test data: 2.4952234089374543
+Accuracy of the network on the test data: 63.2186 %
+Epoch: 73, Learning Rate: 7.29e-06
+2023-12-27 02:21:01
+Loss of the network on the test data: 2.4952305495738982
+Accuracy of the network on the test data: 63.223 %
+Epoch: 74, Learning Rate: 7.29e-06
+2023-12-27 02:21:35
+Loss of the network on the test data: 2.495264637470245
+Accuracy of the network on the test data: 63.2214 %
+Epoch: 75, Learning Rate: 7.29e-06
+2023-12-27 02:22:10
+Loss of the network on the test data: 2.495253139734268
+Accuracy of the network on the test data: 63.2198 %
+Epoch: 76, Learning Rate: 7.29e-06
+2023-12-27 02:22:45
+Loss of the network on the test data: 2.49523686170578
+Accuracy of the network on the test data: 63.223 %
+Epoch: 77, Learning Rate: 7.29e-06
+2023-12-27 02:23:19
+Loss of the network on the test data: 2.4952379882335665
+Accuracy of the network on the test data: 63.2206 %
+Epoch: 78, Learning Rate: 7.29e-06
+2023-12-27 02:23:54
+Loss of the network on the test data: 2.495218849182129
+Accuracy of the network on the test data: 63.2236 %
+Epoch: 79, Learning Rate: 7.29e-06
+2023-12-27 02:24:28
+Loss of the network on the test data: 2.4952041506767273
+Accuracy of the network on the test data: 63.2236 %
+Epoch: 80, Learning Rate: 7.29e-06
+2023-12-27 02:25:03
+Loss of the network on the test data: 2.49522779583931
+Accuracy of the network on the test data: 63.2277 %
+Epoch: 81, Learning Rate: 7.29e-06
+2023-12-27 02:25:37
+Loss of the network on the test data: 2.495224493741989
+Accuracy of the network on the test data: 63.2265 %
+Epoch: 82, Learning Rate: 7.29e-06
+2023-12-27 02:26:12
+Loss of the network on the test data: 2.495210212469101
+Accuracy of the network on the test data: 63.2249 %
+Epoch: 83, Learning Rate: 2.187e-06
+2023-12-27 02:26:46
+Loss of the network on the test data: 2.4952006936073303
+Accuracy of the network on the test data: 63.2262 %
+Epoch: 84, Learning Rate: 2.187e-06
+2023-12-27 02:27:21
+Loss of the network on the test data: 2.4952592849731445
+Accuracy of the network on the test data: 63.2213 %
+Epoch: 85, Learning Rate: 2.187e-06
+2023-12-27 02:27:56
+Loss of the network on the test data: 2.4951959431171415
+Accuracy of the network on the test data: 63.2206 %
+Epoch: 86, Learning Rate: 2.187e-06
+2023-12-27 02:28:30
+Loss of the network on the test data: 2.4953331887722014
+Accuracy of the network on the test data: 63.2213 %
+Epoch: 87, Learning Rate: 2.187e-06
+2023-12-27 02:29:05
+Loss of the network on the test data: 2.4952699840068817
+Accuracy of the network on the test data: 63.2198 %
+Epoch: 88, Learning Rate: 2.187e-06
+2023-12-27 02:29:39
+Loss of the network on the test data: 2.495209974050522
+Accuracy of the network on the test data: 63.2234 %
+Epoch: 89, Learning Rate: 2.187e-06
+2023-12-27 02:30:14
+Loss of the network on the test data: 2.4951831996440887
+Accuracy of the network on the test data: 63.2247 %
+Epoch: 90, Learning Rate: 2.187e-06

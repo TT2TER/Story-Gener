@@ -1,0 +1,36 @@
+method:greedy
+Tommy was very close to his dad and loved him greatly. He was so excited to see his friends. They were very excited about the next day. Tom was able to get a new job. The next time he was a great time.
+Tim was dating a girl who was easily scared. He was very nervous about the teacher. His teacher told him he was a good job. John was nervous and he had to go to the doctor.
+Samuel collected butterflies for his collection. He was very nervous about his first day of school. His parents told him he was a good time. The teacher told his parents to be a very good job. They were very happy that he had to go to the hospital.
+She ran outside without her shoes. She was very nervous. Her mom told her she was not to be a good time. The doctor told him she would be able to get her. Luckily, she had to go to the doctor.
+There once was a man named Larry Butterfrog. He was very nervous about the best. One day he was able to get a job. His friend told him he would be a good job at the local school. The teacher told me he had to be able.
+Warren got a C on his English test, missing a B by one question. He was very nervous about the test. The teacher told him he was a good job. His teacher was able to get a job at the job and was happy.
+Every weekend the Jefferson's go to the park. He was very excited to see the movie. The movie was a very good time. They were very happy to go. It was the first time to get a new movie!
+Grayson begged to have his Xbox back. He was very nervous about the job. She was nervous but she was able to get a job at the school. When she got home, she decided to go to the doctor. The doctor told her that she had to be a good job!
+Tom wanted to gain more muscle. He was very nervous. Tom was nervous about his job. His parents told him he was a good job at the job! Tom decided to go to the doctor.
+Michelle got a cold soda out of the fridge and set it on the counter. The water was very hot and hot. It was a lot of fun. He was so excited to see the water. They were so happy that they had to go to the store.
+Susan is from Germany. He is a very good at his friends. His friends were very nervous. They were going to be a good time. The next day he was a great time at the end.
+method:top_k_p
+Tommy was very close to his dad and loved him greatly. She was about and he wanted to make a bad speech about his brother. They found him a pet store and got a small food. The dog got out of the room after his family! When they got home, he got him from his home.
+Tim was dating a girl who was easily scared. He had a lot of time looking for a job. Her parents told him he could get him not know what to do. The boss agreed with her that the next day. Everyone was sad.
+Samuel collected butterflies for his collection. He decided to be a great time at the concert. She had won the local chess match. That was the best of the game.
+She ran outside without her shoes. She was having a broken hair for the day. Her mom tried to clean up the room. Then she got the phone call by the door. To the end of the class she gave her a pair of cookies.
+There once was a man named Larry Butterfrog. She was afraid to be a good baby girl. This week she had a very cute woman. But she gave a baby a dress. When she got home a result, she couldn't get rid of the gift.
+Warren got a C on his English test, missing a B by one question. The teacher gave the class and the exam for her boss. She showed a few hours later. When he got there, they told him she was going to be able to make her test. It was much better to get the job at the end of school.
+Every weekend the Jefferson's go to the park. They decided to eat dinner with his friends. One day they were on the way to find that the food would be a party. Everyone looked like a big fight with him. The girls had been a very bad time.
+Grayson begged to have his Xbox back. He spent a new book in his school. While at the beach, she walked in. The police took him to the doctor. His daughter said he was going to pay her for the school again.
+Tom wanted to gain more muscle. Tom decided to try a special suit. He was a great book for a new job. When he went back, he got a job with his friends. The kids agreed to go with a huge deal.
+Michelle got a cold soda out of the fridge and set it on the counter. The dog got on her phone to get the dog. It began to fall asleep. She got her shirt while she saw her friend to find it. They gave it her a gift card with a new ones.
+Susan is from Germany. The doctor is feeling sick. He was late at the exam. Randy's teacher gave her a call.
+method:beam
+Tommy was very close to his dad and loved him greatly. He didn't know what to do. One day, he decided to go to the doctor. The doctor told him he was going to get a new job. Tom was glad that he had a great time.
+Tim was dating a girl who was easily scared. He didn't know what to do. One day, he decided to go to the doctor. The doctor told him he had to call him to him. John was able to buy a new job.
+Samuel collected butterflies for his collection. He didn't know what to do. So he decided to go to the store to buy a new store. When he got home, he realized he had a lot of money. It was a great time.
+She ran outside without her shoes. She went to the store to buy a new pair. When she got home, she realized she had a lot of money. Her mom told her that she could not find it. The next day she was able to get it again.
+There once was a man named Larry Butterfrog. He decided to go to the doctor. The doctor told him that he was going to help him. His boss said he would be able to get a job. After a few months later, he had a great time.
+Warren got a C on his English test, missing a B by one question. He decided to go to the doctor. The doctor told him that he had to get a job. After a few weeks, he was able to buy a new car. Now he has a great time at work.
+Every weekend the Jefferson's go to the park. It was a lot of fun. One day, he decided to buy a new one. When he got home, it was time to go back home. He had a great time at the end of the day.
+Grayson begged to have his Xbox back. He decided to go to the store to buy a new one. When he got home, he went to his friend's house. The doctor told him that he had a great time. After a few months later, she was able to get the new car.
+Tom wanted to gain more muscle. He didn't know what to do. So he decided to go to the store. Tom was able to get a new job. It was a great time at the end of the day.
+Michelle got a cold soda out of the fridge and set it on the counter. When she got home, she realized it was too hot. She decided to go to the store to buy it. It was a lot of fun, but she didn't know what to do. So she was so happy that she couldn't wait to get it again.
+Susan is from Germany. He decides to go to the store to buy a new car. When he got home, he realized he was going to get a job. The doctor told him that he had a great time. Barry was able to take the job at the hospital.

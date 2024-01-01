@@ -1,0 +1,61 @@
+  --------------------new_test  2023-12-31 01:27:46
+model loaded from ./output/model_gpt_p.ckpt
+method:greedy
+bleu_score:0.25304892692125097
+rouge_score:0.4071302499990291
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.2737861816855782
+rouge_score:0.3799731924972832
+-----------------------------------------------------
+method:beam
+bleu_score:0.29360461101591456
+rouge_score:0.4120548068241373
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): GPT2LMHeadModel(
+      (transformer): GPT2Model(
+        (wte): Embedding(50257, 768)
+        (wpe): Embedding(1024, 768)
+        (drop): Dropout(p=0.1, inplace=False)
+        (h): ModuleList(
+          (0-11): 12 x GPT2Block(
+            (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (attn): GPT2Attention(
+              (c_attn): Conv1D()
+              (c_proj): Conv1D()
+              (attn_dropout): Dropout(p=0.1, inplace=False)
+              (resid_dropout): Dropout(p=0.1, inplace=False)
+            )
+            (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (mlp): GPT2MLP(
+              (c_fc): Conv1D()
+              (c_proj): Conv1D()
+              (act): NewGELUActivation()
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+        )
+        (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+      )
+      (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+    )
+    (prompt_encoder): ModuleDict(
+      (default): PromptEncoder(
+        (embedding): Embedding(20, 768)
+        (mlp_head): Sequential(
+          (0): Linear(in_features=768, out_features=128, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=128, out_features=128, bias=True)
+          (3): ReLU()
+          (4): Linear(in_features=128, out_features=768, bias=True)
+        )
+      )
+    )
+    (word_embeddings): Embedding(50257, 768)
+  )
+)
+Total Parameters: 124669184
+Trainable Parameters: 229376
+-----------------------------------------------------

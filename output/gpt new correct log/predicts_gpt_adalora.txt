@@ -1,0 +1,36 @@
+method:greedy
+Tommy was very close to his dad and loved him greatly. He was always very nice to him and always had a smile on his face. Tommy was a very good kid and he always liked to play with his friends. His dad was so proud of him that he gave him a birthday present. Tommy and his father were very happy and they were all very proud.
+Tim was dating a girl who was easily scared. He decided to go to the mall to buy some candy. Tim was very nervous and didn't want to be alone. When he got home, he found a candy store. The girl was so scared that she didn.
+Samuel collected butterflies for his collection. He was very excited to see them. Samuel was excited about the butterflies. When he saw them he was so excited. Samuel was happy to have butterflies in his collections.
+She ran outside without her shoes. She ran into a neighbor's house. The neighbor was upset. He called the police. They arrested her.
+There once was a man named Larry Butterfrog. He was the only man in the world to have a successful career. Larry was very successful and had a lot of money. When he was in his late twenties he started to lose money and quit. His wife and children were devastated and he left the business.
+Warren got a C on his English test, missing a B by one question. He was told he could not pass the test. His teacher told him he had to take a test again. Warren was so frustrated he decided to go to the library instead.
+Every weekend the Jefferson's go to the park. They go there to play. The park is very crowded. One of the kids was so scared he didn't even go. He was scared to death.
+Grayson begged to have his Xbox back. He was so tired of playing games. His wife had to take him to the doctor. She told him he needed to get his console back to work. Grayson was able to play games without having to pay for it.
+Tom wanted to gain more muscle. He started to train with a friend. Tom was able to get stronger. His friend was very impressed. They were able get him to do more.
+Michelle got a cold soda out of the fridge and set it on the counter. She went to the bathroom and put it in the sink. When she got home, she found it was too cold. Michelle was so upset that she went back to her room.
+Susan is from Germany. She has a very good job. Susan is very happy. Her husband is happy too.
+method:top_k_p
+Tommy was very close to his dad and loved him greatly. He would send messages to him every day. When he got the call he immediately knew exactly what he wanted. But he could not help but ask his mom for his love. The day after his Dad came home he told her that his friend had died.
+Tim was dating a girl who was easily scared. She was so afraid of heights that she didn't know how to run. Luckily he had a little bit of power to stop her from getting ahead. Tim had to beat her fear at the last minute.
+Samuel collected butterflies for his collection. Samuel decided to put them out of his truck. He drove to the flower shop. In the flowers, Samuel got a lot of leaves. A few flowers had a nice flower.
+She ran outside without her shoes. She couldn't go to work, but her kids did. It was horrible. And so she ran with a dog and never saw her face. Her boyfriend didn't call her back and said they'd go back to school.
+There once was a man named Larry Butterfrog. He worked for the railroad. When he left, he was fired for being too conservative. Now Larry's a very conservative worker.
+Warren got a C on his English test, missing a B by one question. He started playing with his test scores. It was a great day, and Joe won the test. Joe was determined to become a better teacher.
+Every weekend the Jefferson's go to the park. They go down to see the big park with huge trees. The park was full of flowers and plants. A tree fell a little on the ground. When they saw the tree it broke off its branches.
+Grayson begged to have his Xbox back. But his parents decided to take him shopping. They picked up their old Xbox on eBay. The only thing left was the scratch pad. His parents were worried.
+Tom wanted to gain more muscle. He took a long walk to the gym and walked about three miles. His wife felt a strange pull, but she was happy to see him get stronger. They stopped walking and listened to music. Tom started getting his weight off in less than three days.
+Michelle got a cold soda out of the fridge and set it on the counter. She waited until the soda came in and then put it down. Michelle checked it and saw it was cold and cold. Then she decided to go outside and play. The cold was too much and Michelle went home in a sweat.
+Susan is from Germany. She thinks of her friends a lot. They are German and have a very good relationship. Barbara makes her friend laugh and says they should go home. Lisa has no idea what to do.
+method:beam
+Tommy was very close to his dad and loved him greatly. When he was in high school, he had a crush on his mom. Tommy decided he wanted to be a singer. He auditioned for a band and was accepted. After a few years, Tommy was able to make it to the top of the charts.
+Tim was dating a girl who was easily scared. She told him she was scared of spiders. Tim decided to go out on a date with the girl. They had a great time and Tim was very happy. The next day, Tim got a call from her boyfriend.
+Samuel collected butterflies for his collection. He went to the store to pick them up. When he got there, he saw that the butterflies were gone. Samuel took them home and put them back in his bag. The next day, Samuel returned to collect butterflies again.
+She ran outside without her shoes. She went to the store to buy a new pair. When she got home, she found the shoes were missing. The store manager told her to call the police. Elizabeth was arrested and charged with possession of stolen property.
+There once was a man named Larry Butterfrog. He lived in a small town in the middle of nowhere. One day, he got a call from a neighbor. The neighbor told him that Larry was missing. Larry went to the police station to find out what had happened.
+Warren got a C on his English test, missing a B by one question. He didn't know how to answer the question correctly, so he took the test again. The test showed that he was correct, but he couldn't remember the correct answer. Finally, he gave up and went back to school.
+Every weekend the Jefferson's go to the park. The park has a lot of kids. One of the kids is a little girl. She wants to play with her friends. When she gets home she plays with them all the time.
+Grayson begged to have his Xbox back. He couldn't afford to buy a new one. So he went to the local hardware store. There, he bought an Xbox 360 controller. The controller worked flawlessly.
+Tom wanted to gain more muscle. So he went to the gym. He did a lot of squats and deadlifts. The results were amazing. Tom was able to lose weight.
+Michelle got a cold soda out of the fridge and set it on the counter. She put the soda in the microwave for a few minutes. When she was done, she went back to the refrigerator and put it back in. The soda was still cold, and she didn't want to eat it. Michelle decided to take a break from work and get some ice cream instead.
+Susan is from Germany. She decided to go to the beach with her friends. When she arrived, she was greeted by a group of people. They were all very nice. Susan was very happy with the experience.

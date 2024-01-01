@@ -1,0 +1,46 @@
+  --------------------new_test  2023-12-31 01:29:16
+model loaded from ./output/model_gpt_partial_8.ckpt
+method:greedy
+bleu_score:0.3102954157636455
+rouge_score:0.3935037225396672
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.2853785598603021
+rouge_score:0.3457910164266128
+-----------------------------------------------------
+method:beam
+bleu_score:0.2907462796450053
+rouge_score:0.36294237797111156
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): GPT2LMHeadModel(
+    (transformer): GPT2Model(
+      (wte): Embedding(50257, 768)
+      (wpe): Embedding(1024, 768)
+      (drop): Dropout(p=0.1, inplace=False)
+      (h): ModuleList(
+        (0-11): 12 x GPT2Block(
+          (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (attn): GPT2Attention(
+            (c_attn): Conv1D()
+            (c_proj): Conv1D()
+            (attn_dropout): Dropout(p=0.1, inplace=False)
+            (resid_dropout): Dropout(p=0.1, inplace=False)
+          )
+          (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (mlp): GPT2MLP(
+            (c_fc): Conv1D()
+            (c_proj): Conv1D()
+            (act): NewGELUActivation()
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+      (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+    )
+    (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+  )
+)
+Total Parameters: 124439808
+Trainable Parameters: 67736832
+-----------------------------------------------------

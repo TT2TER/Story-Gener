@@ -1,0 +1,120 @@
+  --------------------new_train  2023-12-29 17:56:36------------------------------------------HOHOHO
+  --------------------new_train  2023-12-29 17:59:46------------------------------------------HOHOHO
+  --------------------new_train  2023-12-29 18:01:44------------------------------------------HOHOHO
+  --------------------new_train  2023-12-29 18:03:03------------------------------------------HOHOHO
+2023-12-29 18:09:01
+Loss of the network on the test data: 1.5082100397109985
+Accuracy of the network on the test data: 52.51047619047619 %
+Epoch: 1, Learning Rate: 0.00045
+method:greedy
+bleu_score:0.28928799498060137
+rouge_score:0.032467532013566794
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.3102195969881957
+rouge_score:0.023569023116972197
+-----------------------------------------------------
+method:beam
+bleu_score:0.3208780650209413
+rouge_score:0.027137041616071614
+-----------------------------------------------------
+  --------------------new_train  2023-12-29 19:27:20------------------------------------------HOHOHO
+  --------------------new_train  2023-12-29 20:37:43------------------------------------------HOHOHO
+2023-12-29 20:43:41
+Loss of the network on the test data: 1.9789546297073364
+Accuracy of the network on the test data: 52.557428571428574 %
+Epoch: 1, Learning Rate: 0.00012
+2023-12-29 20:49:38
+Loss of the network on the test data: 1.639779479408264
+Accuracy of the network on the test data: 52.5127619047619 %
+Epoch: 2, Learning Rate: 0.00024
+2023-12-29 20:55:35
+Loss of the network on the test data: 1.5517537551879883
+Accuracy of the network on the test data: 52.513714285714286 %
+Epoch: 3, Learning Rate: 0.00035999999999999997
+2023-12-29 21:01:33
+Loss of the network on the test data: 1.5010215242385865
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 4, Learning Rate: 0.00048
+2023-12-29 21:07:30
+Loss of the network on the test data: 1.4642453025817872
+Accuracy of the network on the test data: 52.51190476190476 %
+Epoch: 5, Learning Rate: 0.0006000000000000001
+2023-12-29 21:13:27
+Loss of the network on the test data: 1.4371278964996337
+Accuracy of the network on the test data: 52.510285714285715 %
+Epoch: 6, Learning Rate: 0.0007199999999999999
+2023-12-29 21:19:24
+Loss of the network on the test data: 1.4181303485870362
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 7, Learning Rate: 0.0008400000000000001
+2023-12-29 21:25:22
+Loss of the network on the test data: 1.4019559677124023
+Accuracy of the network on the test data: 52.510380952380956 %
+Epoch: 8, Learning Rate: 0.00096
+2023-12-29 21:31:19
+Loss of the network on the test data: 1.3903704023361205
+Accuracy of the network on the test data: 52.51 %
+Epoch: 9, Learning Rate: 0.00108
+2023-12-29 21:37:17
+Loss of the network on the test data: 1.3810418954849244
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 10, Learning Rate: 0.0012000000000000001
+method:greedy
+bleu_score:0.3145589915749058
+rouge_score:0.0320855610513439
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.3212069362903894
+rouge_score:0.033766233325046385
+-----------------------------------------------------
+method:beam
+bleu_score:0.2976737779491015
+rouge_score:0.028409090458540488
+-----------------------------------------------------
+  --------------------new_test  2023-12-29 23:37:42
+model loaded from ./output/model_gpt_add.ckpt
+method:greedy
+bleu_score:0.3145589915749058
+rouge_score:0.0320855610513439
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.3215950954454778
+rouge_score:0.03134796192789969
+-----------------------------------------------------
+method:beam
+bleu_score:0.2976737779491015
+rouge_score:0.028409090458540488
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): GPT2LMHeadModel(
+    (transformer): GPT2Model(
+      (wte): Embedding(50257, 768)
+      (wpe): Embedding(1024, 768)
+      (drop): Dropout(p=0.1, inplace=False)
+      (h): ModuleList(
+        (0-11): 12 x GPT2Block(
+          (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (attn): GPT2Attention(
+            (c_attn): Conv1D()
+            (c_proj): Conv1D()
+            (attn_dropout): Dropout(p=0.1, inplace=False)
+            (resid_dropout): Dropout(p=0.1, inplace=False)
+          )
+          (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+          (mlp): GPT2MLP(
+            (c_fc): Conv1D()
+            (c_proj): Conv1D()
+            (act): NewGELUActivation()
+            (dropout): Dropout(p=0.1, inplace=False)
+          )
+        )
+      )
+      (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+    )
+    (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+  )
+)
+Total Parameters: 124439808
+Trainable Parameters: 124439808
+-----------------------------------------------------

@@ -1,0 +1,38 @@
+method:greedy
+Tommy was very close to his dad and loved him greatly. He was a very good kid.
+Tim was dating a girl who was easily scared. She was so scared that she decided to go to the bathroom. Tim was scared to death. He was a little scared when he saw her.
+Samuel collected butterflies for his collection. He was so excited to collect them.
+She ran outside without her shoes. She ran into a man who was running around with a bag of groceries. He was wearing a black shirt and black pants. The man was holding a gun.
+There once was a man named Larry Butterfrog. He was an avid golfer. When he was younger, he played golf. His father was also a golger. Larry was always a good goler.
+Warren got a C on his English test, missing a B by one question. He got the C.
+Every weekend the Jefferson's go to the park. They go there to see the kids play. The kids are all playing.
+Grayson begged to have his Xbox back. He was so upset that he begged his parents to let him back in. They refused.
+Tom wanted to gain more muscle. He wanted a new pair of shoes. Tom wanted the shoes to be more comfortable.
+Michelle got a cold soda out of the fridge and set it on the counter. She put it in the refrigerator and put the soda in it. It was cold. Michelle was so cold that she couldn't even stand it out.
+Susan is from Germany. She is a German-American who works as a waitress at a local restaurant. Susan is very happy to be back home.
+method:top_k_p
+Tommy was very close to his dad and loved him greatly. As he had been working in the field of photography, he felt that he could use a bit of his time to work on his photos. After years of working as a professional photographer, the family got a good job at a local company. When they finally had a full-time job, they were offered the chance to take photographs.
+Tim was dating a girl who was easily scared. She took out her phone and wrote a message to him. He answered the phone. Tim was terrified.
+Samuel collected butterflies for his collection. He wanted to find the ones that had the right color. They came in the mail, and he got a good deal.
+She ran outside without her shoes. She felt like a stranger in a park.
+There once was a man named Larry Butterfrog. Butterfield was famous for his work in the coal mines. Larry knew his name and had worked hard for years. Then Larry got caught up in a battle. He was fined $100 and spent several months in jail. The money was never recovered. It was also reported that Butterfields had the right to use his truck to go to a new site.
+Warren got a C on his English test, missing a B by one question. The other questions had a lot of questions. Warren said, "I'm going to take the C." Warren got another C. It didn't matter if Warren took it. A student who didn`t understand the test had to be informed about it in advance.
+Every weekend the Jefferson's go to the park. The park is very quiet but very active. There are a lot of parking spaces. It is one of the many reasons why there are so many people coming in.
+Grayson begged to have his Xbox back. But it was too late. He was left with a huge black hole in his forehead.
+Tom wanted to gain more muscle.
+Michelle got a cold soda out of the fridge and set it on the counter. She had been drinking some soda but decided to set the hot soda on its side. Michelle went to the bathroom to get some ice and let some stand. Once it was up and off, she threw it in the sink. The soda came back on and was still good.
+Susan is from Germany. She's trying to start a business here.
+method:beam
+Tommy was very close to his dad and loved him greatly. When he got home from school, he found out that he was pregnant with his first child. He didn't know what to do, but he did what he could to make sure that his son was healthy and happy.
+Tim was dating a girl who was easily scared. He decided to go out with her. They went out for a walk. When they arrived at the park, they were met by a group of people. Tim was surprised to find out that he was the only one in the group.
+Samuel collected butterflies for his collection. When he got home, he picked them up and put them in his bag. He took them to a friend's house. They were so happy to see him.
+She ran outside without her shoes. She ran out of the house and ran into a neighbor's house. The neighbor called the police.
+There once was a man named Larry Butterfrog. He wanted to be a doctor. But he didn't want to go to college. So he went to the University of California at Santa Barbara. There he met his future wife. They had a daughter.
+Warren got a C on his English test, missing a B by one question. He didn't know what he was doing wrong, so he took the test again. The results were good, but he still couldn't figure out what was wrong with his test.
+Every weekend the Jefferson's go to the park. The park is a great place to hang out with friends and family. There are a lot of fun things to do there. If you have any questions, feel free to leave a comment below.
+Grayson begged to have his Xbox back. He didn't want to lose it, so he bought a new one.
+Tom wanted to gain more muscle. He bought a new pair of trainers and started training with them. After a few weeks of training, he was ready to get back on his feet.
+
+The next day, Tom got a call from his wife. She told him that her husband had been diagnosed with a rare form of cancer. Tom went to the doctor and told her that his cancer had spread to other parts of his body. The doctor told Tom that he would have to undergo surgery, but he didn't want to
+Michelle got a cold soda out of the fridge and set it on the counter. When she got home, she found out that she was pregnant. She went to the doctor and told him about her pregnancy. He told her that he was going to take her to see a doctor.
+Susan is from Germany. She works as a waitress at a local restaurant. When she gets home from work, she finds out that she is pregnant. Susan decides to give birth to her first child.

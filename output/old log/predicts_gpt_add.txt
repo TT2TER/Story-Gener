@@ -1,0 +1,36 @@
+method:greedy
+Tommy was very close to his dad and loved him greatly. He was always very protective of his father. One day, Tommy's dad got a call from Tommy. Tommy was scared and didn't want to talk to him. His dad told Tommy to go home and talk.
+Tim was dating a girl who was easily scared. He decided to go to the mall to buy some candy. She was very excited to see him. Tim was so excited he forgot to put his wallet in his pocket.
+Samuel collected butterflies for his collection. He decided to take them home. Samuel took them to the store. They were very expensive.
+She ran outside without her shoes. She saw a man running down the street. He was wearing a black suit. The man ran away.
+There once was a man named Larry Butterfrog. He was very good at making money. Larry was always making a lot of money and was known for his hard work. One day Larry's boss told him he was fired. The man was so angry that he quit.
+Warren got a C on his English test, missing a B by one question. He was so nervous about the test that he didn't study hard. His teacher told him to study harder. Tom studied hard and passed the exam.
+Every weekend the Jefferson's go to the park. They go through the woods and see the beautiful scenery. The park is a great place to visit. It is also a fun place for kids to play.
+Grayson begged to have his Xbox back. He was so excited to get it back that he bought a new one. The Xbox was a great purchase for him. But he was disappointed that it was not a good one for his gaming. After a few months, he finally bought it.
+Tom wanted to gain more muscle. He decided to try out for a gym membership. Tom was very nervous about the gym. But he was able to get a good workout.
+Michelle got a cold soda out of the fridge and set it on the counter. She put it in the microwave and waited for it to cool. When it was done, she put the soda in her mouth. It was so cold, it melted.
+Susan is from Germany. She is a very good cook. Her family is very poor. They have to cook for a living. Anna is forced to work for the government.
+method:top_k_p
+Tommy was very close to his dad and loved him greatly. He was always making plans for his family. His dad loved making sure that everyone was safe. Tommy was able to build and maintain a family that was welcoming to everyone.
+Tim was dating a girl who was easily scared. Tom started a romantic relationship with her. The two ended in a split and had to break up. They went on a date night and decided to finally break the ice. In the end, Tom cheated on his girlfriend.
+Samuel collected butterflies for his collection. He gave them to his friends. It was a rare treat to look at the butterfly. Samuel gave the butterflies away for free and gave back one thousand.
+She ran outside without her shoes. She found a man in a suit, carrying a box of tissues. He brought the tissues to her feet. At first, Jane was afraid of the stranger. But then, she realized that the man did not fit her shoe well.
+There once was a man named Larry Butterfrog. Larry was only 18 years old. He could not walk. His parents had taken him to a fancy club. Now Larry is the best man in town.
+Warren got a C on his English test, missing a B by one question. He wrote a test to get his C. It worked great, but didn't tell him it was a mistake. A few months later, he had to write another exam. When he passed the test he got his B.
+Every weekend the Jefferson's go to the park. They went on a roller coaster ride to win a free ride. Then they visited the museum. Jeff took the kids to a new museum exhibit.
+Grayson begged to have his Xbox back. The owner of his company said it was no use if his daughter wanted to play games. They spent a week working on their game. When they finally sold the Xbox, they were happy. Everyone else couldn't play the game either.
+Tom wanted to gain more muscle. So he decided to try out various diets. After several months of dieting, he started to see results. Dan gained ten pounds on his first try. Within weeks, Dan was able to lose ten more pounds.
+Michelle got a cold soda out of the fridge and set it on the counter. She grabbed a handful of water to drink it. Then she started to go to the bathroom. There she found a can of soda and a soda can.
+Susan is from Germany. She went to the zoo in the city. When she got there she saw some birds. They were beautiful. Kate decided to show them a lot of affection.
+method:beam
+Tommy was very close to his dad and loved him greatly. One day, Tommy decided to go on a date with his best friend. Tommy and his friend had a great time. They ended up having a lot of fun together.
+Tim was dating a girl who was easily scared. He decided to ask her out on a date. She told him she had a crush on him and wanted to be with him. When he got home, he found out she was pregnant. Tom had to go to the hospital to have the baby.
+Samuel collected butterflies for his collection. One day, he saw a butterfly in his yard. He picked it up and put it in a jar. The butterfly flew out of the jar and landed on Samuel's arm. Samuel had to take the butterfly to the vet for a tetanus shot.
+She ran outside without her shoes. She went to the store to buy a new pair. When she got home, she found a pair of shoes on the floor. The shoes were too small to fit in the shoe box. It took her a long time to find them.
+There once was a man named Larry Butterfrog. He lived in a small town in the middle of nowhere. One day, he got a call from the police. Larry was arrested and charged with murder. The police found him guilty of murder and sentenced him to life in prison.
+Warren got a C on his English test, missing a B by one question. He didn't study hard enough to pass the test. His teacher told him to study harder. Tom studied hard and passed the exam.
+Every weekend the Jefferson's go to the park. The park has a lot of fun activities. They have lots of activities to do. One of the most popular activities is roller skating. It is a great way to get to know each other.
+Grayson begged to have his Xbox back. But he couldn't afford it. So he went to the store. He bought a new Xbox. And he was happy.
+Tom wanted to gain more muscle. He went to the gym every day. One day, he decided to try out for a bodybuilding competition. The competition was very competitive. Tom won the competition and went on to become the best bodybuilder in the world.
+Michelle got a cold soda out of the fridge and set it on the counter. She went to the store and bought a soda. When she got home, she realized she forgot to put the soda in the refrigerator. The soda was gone and she had to throw it away.
+Susan is from Germany. She decided to go to Germany to visit her family. On her way there she met a man who was very nice. They talked for a long time. When they got to the airport they were both very happy.

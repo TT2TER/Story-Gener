@@ -1,0 +1,63 @@
+  --------------------new_test  2023-12-31 01:29:49
+model loaded from ./output/model_gpt_lora.ckpt
+method:greedy
+bleu_score:0.32467927289580084
+rouge_score:0.40595596833393194
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.2965692673884745
+rouge_score:0.35882923862606525
+-----------------------------------------------------
+method:beam
+bleu_score:0.3273078844681289
+rouge_score:0.39557304212665995
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): LoraModel(
+      (model): GPT2LMHeadModel(
+        (transformer): GPT2Model(
+          (wte): Embedding(50257, 768)
+          (wpe): Embedding(1024, 768)
+          (drop): Dropout(p=0.1, inplace=False)
+          (h): ModuleList(
+            (0-11): 12 x GPT2Block(
+              (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (attn): GPT2Attention(
+                (c_attn): lora.Linear(
+                  (base_layer): Conv1D()
+                  (lora_dropout): ModuleDict(
+                    (default): Dropout(p=0.1, inplace=False)
+                  )
+                  (lora_A): ModuleDict(
+                    (default): Linear(in_features=768, out_features=8, bias=False)
+                  )
+                  (lora_B): ModuleDict(
+                    (default): Linear(in_features=8, out_features=2304, bias=False)
+                  )
+                  (lora_embedding_A): ParameterDict()
+                  (lora_embedding_B): ParameterDict()
+                )
+                (c_proj): Conv1D()
+                (attn_dropout): Dropout(p=0.1, inplace=False)
+                (resid_dropout): Dropout(p=0.1, inplace=False)
+              )
+              (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (mlp): GPT2MLP(
+                (c_fc): Conv1D()
+                (c_proj): Conv1D()
+                (act): NewGELUActivation()
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+          )
+          (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        )
+        (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+      )
+    )
+  )
+)
+Total Parameters: 124734720
+Trainable Parameters: 294912
+-----------------------------------------------------

@@ -1,0 +1,266 @@
+  new_train  2023-12-28 23:30:14
+2023-12-28 23:35:12
+Loss of the network on the test data: 1.4412163759231567
+Accuracy of the network on the test data: 52.50838095238095 %
+Epoch: 1, Learning Rate: 0.003
+  new_test  2023-12-28 23:40:35
+model loaded from ./output/model_gpt_lora.ckpt
+method:greedy
+bleu_score:0.3276767005601754
+rouge_score:0.029850745822313132
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): LoraModel(
+      (model): GPT2LMHeadModel(
+        (transformer): GPT2Model(
+          (wte): Embedding(50257, 768)
+          (wpe): Embedding(1024, 768)
+          (drop): Dropout(p=0.1, inplace=False)
+          (h): ModuleList(
+            (0-11): 12 x GPT2Block(
+              (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (attn): GPT2Attention(
+                (c_attn): lora.Linear(
+                  (base_layer): Conv1D()
+                  (lora_dropout): ModuleDict(
+                    (default): Dropout(p=0.1, inplace=False)
+                  )
+                  (lora_A): ModuleDict(
+                    (default): Linear(in_features=768, out_features=8, bias=False)
+                  )
+                  (lora_B): ModuleDict(
+                    (default): Linear(in_features=8, out_features=2304, bias=False)
+                  )
+                  (lora_embedding_A): ParameterDict()
+                  (lora_embedding_B): ParameterDict()
+                )
+                (c_proj): Conv1D()
+                (attn_dropout): Dropout(p=0.1, inplace=False)
+                (resid_dropout): Dropout(p=0.1, inplace=False)
+              )
+              (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (mlp): GPT2MLP(
+                (c_fc): Conv1D()
+                (c_proj): Conv1D()
+                (act): NewGELUActivation()
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+          )
+          (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        )
+        (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+      )
+    )
+  )
+)
+Total Parameters: 124734720
+Trainable Parameters: 294912
+-----------------------------------------------------
+  --------------------new_train  2023-12-28 23:43:50
+2023-12-28 23:48:49
+Loss of the network on the test data: 1.4397358406066894
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-28 23:54:44
+Loss of the network on the test data: 1.4173604997634888
+Accuracy of the network on the test data: 52.510285714285715 %
+Epoch: 2, Learning Rate: 0.00027
+2023-12-29 00:00:39
+Loss of the network on the test data: 1.4150378684997558
+Accuracy of the network on the test data: 52.51085714285714 %
+Epoch: 3, Learning Rate: 0.00027
+2023-12-29 00:06:34
+Loss of the network on the test data: 1.4118814922332763
+Accuracy of the network on the test data: 52.51095238095238 %
+Epoch: 4, Learning Rate: 2.4299999999999998e-05
+2023-12-29 00:12:28
+Loss of the network on the test data: 1.4108467123031616
+Accuracy of the network on the test data: 52.508761904761904 %
+Epoch: 5, Learning Rate: 2.4299999999999998e-05
+2023-12-29 00:17:38
+Loss of the network on the test data: 1.411430584716797
+Accuracy of the network on the test data: 52.51095238095238 %
+Epoch: 6, Learning Rate: 2.1869999999999996e-06
+2023-12-29 00:23:13
+Loss of the network on the test data: 1.4109684646606446
+Accuracy of the network on the test data: 52.51114285714286 %
+Epoch: 7, Learning Rate: 2.1869999999999996e-06
+2023-12-29 00:28:39
+Loss of the network on the test data: 1.4107058708190918
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 8, Learning Rate: 2.1869999999999996e-06
+2023-12-29 00:33:35
+Loss of the network on the test data: 1.410572258758545
+Accuracy of the network on the test data: 52.51133333333333 %
+Epoch: 9, Learning Rate: 1.9682999999999994e-07
+2023-12-29 00:38:32
+Loss of the network on the test data: 1.4108062440872193
+Accuracy of the network on the test data: 52.51095238095238 %
+Epoch: 10, Learning Rate: 1.9682999999999994e-07
+  --------------------new_train  2023-12-29 09:31:25------------------------------------------HOHOHO
+2023-12-29 09:37:18
+Loss of the network on the test data: 1.4418502529144288
+Accuracy of the network on the test data: 52.51009523809524 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-29 09:43:11
+Loss of the network on the test data: 1.4239186029434203
+Accuracy of the network on the test data: 52.51085714285714 %
+Epoch: 2, Learning Rate: 0.0009
+2023-12-29 09:49:04
+Loss of the network on the test data: 1.4231653051376343
+Accuracy of the network on the test data: 52.510666666666665 %
+Epoch: 3, Learning Rate: 0.0009
+2023-12-29 09:54:57
+Loss of the network on the test data: 1.4134071897506715
+Accuracy of the network on the test data: 52.51095238095238 %
+Epoch: 4, Learning Rate: 0.00027
+2023-12-29 10:00:50
+Loss of the network on the test data: 1.4122846685409547
+Accuracy of the network on the test data: 52.510380952380956 %
+Epoch: 5, Learning Rate: 0.00027
+2023-12-29 10:06:43
+Loss of the network on the test data: 1.4095745803833009
+Accuracy of the network on the test data: 52.51057142857143 %
+Epoch: 6, Learning Rate: 8.1e-05
+2023-12-29 10:12:35
+Loss of the network on the test data: 1.4089419393539429
+Accuracy of the network on the test data: 52.51076190476191 %
+Epoch: 7, Learning Rate: 8.1e-05
+2023-12-29 10:18:28
+Loss of the network on the test data: 1.4086787395477296
+Accuracy of the network on the test data: 52.51047619047619 %
+Epoch: 8, Learning Rate: 8.1e-05
+2023-12-29 10:24:21
+Loss of the network on the test data: 1.4073186084747313
+Accuracy of the network on the test data: 52.51076190476191 %
+Epoch: 9, Learning Rate: 2.43e-05
+2023-12-29 10:30:15
+Loss of the network on the test data: 1.4072511629104614
+Accuracy of the network on the test data: 52.51095238095238 %
+Epoch: 10, Learning Rate: 2.43e-05
+method:greedy
+bleu_score:0.32467927289580084
+rouge_score:0.03430531687368524
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.31368190741220786
+rouge_score:0.03305785078647634
+-----------------------------------------------------
+method:beam
+bleu_score:0.3273078844681289
+rouge_score:0.0327868847924556
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): LoraModel(
+      (model): GPT2LMHeadModel(
+        (transformer): GPT2Model(
+          (wte): Embedding(50257, 768)
+          (wpe): Embedding(1024, 768)
+          (drop): Dropout(p=0.1, inplace=False)
+          (h): ModuleList(
+            (0-11): 12 x GPT2Block(
+              (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (attn): GPT2Attention(
+                (c_attn): lora.Linear(
+                  (base_layer): Conv1D()
+                  (lora_dropout): ModuleDict(
+                    (default): Dropout(p=0.1, inplace=False)
+                  )
+                  (lora_A): ModuleDict(
+                    (default): Linear(in_features=768, out_features=8, bias=False)
+                  )
+                  (lora_B): ModuleDict(
+                    (default): Linear(in_features=8, out_features=2304, bias=False)
+                  )
+                  (lora_embedding_A): ParameterDict()
+                  (lora_embedding_B): ParameterDict()
+                )
+                (c_proj): Conv1D()
+                (attn_dropout): Dropout(p=0.1, inplace=False)
+                (resid_dropout): Dropout(p=0.1, inplace=False)
+              )
+              (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (mlp): GPT2MLP(
+                (c_fc): Conv1D()
+                (c_proj): Conv1D()
+                (act): NewGELUActivation()
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+          )
+          (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        )
+        (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+      )
+    )
+  )
+)
+Total Parameters: 124734720
+Trainable Parameters: 294912
+-----------------------------------------------------
+  --------------------new_test  2023-12-29 23:41:14
+model loaded from ./output/model_gpt_lora.ckpt
+method:greedy
+bleu_score:0.32467927289580084
+rouge_score:0.03430531687368524
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.3113580590926746
+rouge_score:0.03425559902999752
+-----------------------------------------------------
+method:beam
+bleu_score:0.3273078844681289
+rouge_score:0.0327868847924556
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): LoraModel(
+      (model): GPT2LMHeadModel(
+        (transformer): GPT2Model(
+          (wte): Embedding(50257, 768)
+          (wpe): Embedding(1024, 768)
+          (drop): Dropout(p=0.1, inplace=False)
+          (h): ModuleList(
+            (0-11): 12 x GPT2Block(
+              (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (attn): GPT2Attention(
+                (c_attn): lora.Linear(
+                  (base_layer): Conv1D()
+                  (lora_dropout): ModuleDict(
+                    (default): Dropout(p=0.1, inplace=False)
+                  )
+                  (lora_A): ModuleDict(
+                    (default): Linear(in_features=768, out_features=8, bias=False)
+                  )
+                  (lora_B): ModuleDict(
+                    (default): Linear(in_features=8, out_features=2304, bias=False)
+                  )
+                  (lora_embedding_A): ParameterDict()
+                  (lora_embedding_B): ParameterDict()
+                )
+                (c_proj): Conv1D()
+                (attn_dropout): Dropout(p=0.1, inplace=False)
+                (resid_dropout): Dropout(p=0.1, inplace=False)
+              )
+              (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+              (mlp): GPT2MLP(
+                (c_fc): Conv1D()
+                (c_proj): Conv1D()
+                (act): NewGELUActivation()
+                (dropout): Dropout(p=0.1, inplace=False)
+              )
+            )
+          )
+          (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+        )
+        (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+      )
+    )
+  )
+)
+Total Parameters: 124734720
+Trainable Parameters: 294912
+-----------------------------------------------------

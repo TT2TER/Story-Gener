@@ -1,0 +1,54 @@
+  --------------------new_test  2023-12-31 01:26:49
+model loaded from ./output/model_gpt_prefix.ckpt
+method:greedy
+bleu_score:0.22111743679580947
+rouge_score:0.3879070681740213
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.2466882972634532
+rouge_score:0.3563460611861777
+-----------------------------------------------------
+method:beam
+bleu_score:0.27616414619773216
+rouge_score:0.3698345100657379
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): GPT2LMHeadModel(
+      (transformer): GPT2Model(
+        (wte): Embedding(50257, 768)
+        (wpe): Embedding(1024, 768)
+        (drop): Dropout(p=0.1, inplace=False)
+        (h): ModuleList(
+          (0-11): 12 x GPT2Block(
+            (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (attn): GPT2Attention(
+              (c_attn): Conv1D()
+              (c_proj): Conv1D()
+              (attn_dropout): Dropout(p=0.1, inplace=False)
+              (resid_dropout): Dropout(p=0.1, inplace=False)
+            )
+            (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (mlp): GPT2MLP(
+              (c_fc): Conv1D()
+              (c_proj): Conv1D()
+              (act): NewGELUActivation()
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+        )
+        (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+      )
+      (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+    )
+    (prompt_encoder): ModuleDict(
+      (default): PrefixEncoder(
+        (embedding): Embedding(20, 18432)
+      )
+    )
+    (word_embeddings): Embedding(50257, 768)
+  )
+)
+Total Parameters: 124808448
+Trainable Parameters: 368640
+-----------------------------------------------------

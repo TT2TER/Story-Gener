@@ -1,0 +1,115 @@
+  --------------------new_train  2023-12-29 02:51:28
+  --------------------new_train  2023-12-29 04:58:10------------------------------------------HOHOHO
+2023-12-29 05:04:43
+Loss of the network on the test data: 1.4989685108184814
+Accuracy of the network on the test data: 52.50304761904762 %
+Epoch: 1, Learning Rate: 0.003
+2023-12-29 05:11:17
+Loss of the network on the test data: 1.4937024297714234
+Accuracy of the network on the test data: 52.50371428571429 %
+Epoch: 2, Learning Rate: 0.0009
+2023-12-29 05:17:51
+Loss of the network on the test data: 1.4927557569503784
+Accuracy of the network on the test data: 52.508857142857146 %
+Epoch: 3, Learning Rate: 0.0009
+2023-12-29 05:24:24
+Loss of the network on the test data: 1.4908260124206543
+Accuracy of the network on the test data: 52.508 %
+Epoch: 4, Learning Rate: 0.00027
+2023-12-29 05:30:58
+Loss of the network on the test data: 1.4912474765777588
+Accuracy of the network on the test data: 52.504285714285714 %
+Epoch: 5, Learning Rate: 0.00027
+2023-12-29 05:37:31
+Loss of the network on the test data: 1.4898686262130738
+Accuracy of the network on the test data: 52.50780952380953 %
+Epoch: 6, Learning Rate: 8.1e-05
+2023-12-29 05:44:05
+Loss of the network on the test data: 1.4896409425735473
+Accuracy of the network on the test data: 52.50657142857143 %
+Epoch: 7, Learning Rate: 8.1e-05
+2023-12-29 05:50:38
+Loss of the network on the test data: 1.4898632493972779
+Accuracy of the network on the test data: 52.50685714285714 %
+Epoch: 8, Learning Rate: 8.1e-05
+2023-12-29 05:57:11
+Loss of the network on the test data: 1.4901107208251954
+Accuracy of the network on the test data: 52.507238095238094 %
+Epoch: 9, Learning Rate: 2.43e-05
+2023-12-29 06:03:45
+Loss of the network on the test data: 1.4900103677749634
+Accuracy of the network on the test data: 52.507333333333335 %
+Epoch: 10, Learning Rate: 2.43e-05
+method:greedy
+bleu_score:0.25304892692125097
+rouge_score:0.03430531687368524
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.2874461631656158
+rouge_score:0.031249999549449573
+-----------------------------------------------------
+method:beam
+bleu_score:0.29360461101591456
+rouge_score:0.027734976433104394
+-----------------------------------------------------
+  --------------------new_test  2023-12-29 23:39:12
+model loaded from ./output/model_gpt_p.ckpt
+method:greedy
+bleu_score:0.25304892692125097
+rouge_score:0.03430531687368524
+-----------------------------------------------------
+method:top_k_p
+bleu_score:0.291324960738064
+rouge_score:0.03081664053171764
+-----------------------------------------------------
+method:beam
+bleu_score:0.29360461101591456
+rouge_score:0.027734976433104394
+-----------------------------------------------------
+model_structures:GPT2_model(
+  (gpt): PeftModelForCausalLM(
+    (base_model): GPT2LMHeadModel(
+      (transformer): GPT2Model(
+        (wte): Embedding(50257, 768)
+        (wpe): Embedding(1024, 768)
+        (drop): Dropout(p=0.1, inplace=False)
+        (h): ModuleList(
+          (0-11): 12 x GPT2Block(
+            (ln_1): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (attn): GPT2Attention(
+              (c_attn): Conv1D()
+              (c_proj): Conv1D()
+              (attn_dropout): Dropout(p=0.1, inplace=False)
+              (resid_dropout): Dropout(p=0.1, inplace=False)
+            )
+            (ln_2): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+            (mlp): GPT2MLP(
+              (c_fc): Conv1D()
+              (c_proj): Conv1D()
+              (act): NewGELUActivation()
+              (dropout): Dropout(p=0.1, inplace=False)
+            )
+          )
+        )
+        (ln_f): LayerNorm((768,), eps=1e-05, elementwise_affine=True)
+      )
+      (lm_head): Linear(in_features=768, out_features=50257, bias=False)
+    )
+    (prompt_encoder): ModuleDict(
+      (default): PromptEncoder(
+        (embedding): Embedding(20, 768)
+        (mlp_head): Sequential(
+          (0): Linear(in_features=768, out_features=128, bias=True)
+          (1): ReLU()
+          (2): Linear(in_features=128, out_features=128, bias=True)
+          (3): ReLU()
+          (4): Linear(in_features=128, out_features=768, bias=True)
+        )
+      )
+    )
+    (word_embeddings): Embedding(50257, 768)
+  )
+)
+Total Parameters: 124669184
+Trainable Parameters: 229376
+-----------------------------------------------------
